@@ -2,6 +2,11 @@
 
 ## The Raja Is Born a Chandal in a Dream
 
+1 Who meets Guru Arjan?
+2 What is the Guru reading?
+3 What happens to the raja?
+4 How does the chapter end?
+
 *Dohra* ਦੋਹਰਾ
 
 ਭਈ ਭੋਰ ਸ਼੍ਰੀ ਗੁਰੁ ਉਠੇ, ਕਰਿ ਸ਼ਨਾਨ ਤੇ ਆਦਿ।  
