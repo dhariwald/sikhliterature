@@ -1,12 +1,12 @@
 # Ras 2, Ansu 32
 
 ## The Raja Is Born a Chandal in a Dream
->note:
->1 Who meets Guru Arjan?
->2 What is the Guru reading, and its meaning?
->3 The raja's question
->4 Events in the Raja's dream
->5 How does the chapter end?
+>note:\
+>1 Who meets Guru Arjan?\
+>2 What is the Guru reading, and its meaning?\
+>3 The raja's question\
+>4 Events in the Raja's dream\
+>5 How does the chapter end?\
 
 *Dohra* ਦੋਹਰਾ
 
