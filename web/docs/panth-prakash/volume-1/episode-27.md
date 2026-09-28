@@ -4,6 +4,11 @@
 
 ### (Dādū Duār mahant Jait Rām nāl mel: The Meeting with Mahant Jait Ram at Dadu Dwar)
 
+>Note:
+>Name of the mahant who met the Guru at Dadu Dwar
+>The Mahant's request to the Guru
+>The Guru's response
+
 *Dohra* ਦੋਹਰਾ
 
 ਜਬ ਸਤਿਗੁਰ ਦੱਖਣ ਪੁੱਜੇ ਜਹਿਂ ਥੋ ਦਾਦੂ ਦ੍ਵਾਰ ॥\
