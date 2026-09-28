@@ -2,6 +2,13 @@
 
 ## Bhai Kalyana Comes to Sri Amritsar, Bringing the Raja
 
+>Note:\
+>1. Reason for Kalyana's imprisonment & punishment
+>2. Punishment he was sentenced to
+>3. The Raja's demand
+>4. Kalyana's response
+>5. How Kalyana was saved
+
 *Dohra* ਦੋਹਰਾ
 
 ਕਹੀ ਜਥਾਰਥ ਬਾਰਤਾ, ਸੁਨਿ ਕੈ ਨ੍ਰਿਪ ਅੱਗਯਾਨਿ।\
