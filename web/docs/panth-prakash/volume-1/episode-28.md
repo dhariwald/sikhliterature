@@ -1,6 +1,6 @@
 # Panth Prakash, Episode 28
 
-## The Second Episode of Baba Banda
+## The Second Episode of Banda Bahadur
 
 *Dohra* ਦੋਹਰਾ
 
