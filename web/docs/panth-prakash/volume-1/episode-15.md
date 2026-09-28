@@ -4,6 +4,10 @@
 
 ### (amrit saṅskār, pañj bhujaṅgī jo bhae...: the rite of amrit; the five who became bhujaṅgīs...)
 
+>note:\
+>Names of the 5 chosen bhujangis\
+>Practices the Guru said to follow, and what to avoid\
+
 *Dohra* ਦੋਹਰਾ
 
 ਇਤਨੀ ਬਾਤ ਵਿਚਾਰ ਕਰ ਹੁਤੀ ਬਾਤ ਲਈ ਚੀਨ ॥\
