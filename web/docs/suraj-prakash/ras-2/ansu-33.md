@@ -2,10 +2,10 @@
 
 ## The Dream Made Real, and the Raja's Faith in the Satguru
 
-1. Who does the raja meet?
-2. What does Guru Arjan tell the raja about his dream?
-3. How did the Satguru help the raja?
-4. What does the raja ask from the Guru, and what does he offer?
+>1. Who does the raja meet?
+>2. What does Guru Arjan tell the raja about his dream?
+>3. How did the Satguru help the raja?
+>4. What does the raja ask from the Guru, and what does he offer?
 
 *Dohra* ਦੋਹਰਾ
 
