@@ -89,22 +89,22 @@ that too he set into the pāhul. (9)
 > ਖਗ ਖੰਡ ਬਿਹੰਡੰ ਖਲ ਦਲ ਖੰਡੰ,\
 > ਅਤਿ ਰਣ ਮੰਡੰ ਬਰ ਬੰਡੰ ॥\
 > *khag khaṅd bihaṅdaṅ khal dal khaṅdaṅ, ati raṇ maṅdaṅ bar baṅdaṅ*\
-> Khag[^24] that cuts and hews, that cuts down the armies of the wicked, glory of the battlefield, mighty one;
+> The Sword[^24] that cuts and hews, that cuts down the armies of the wicked, glory of the battlefield, mighty one;
 >
 > ਭੁਜਦੰਡ ਅਖੰਡੰ ਤੇਜ ਪ੍ਰਚੰਡੰ,\
 > ਜੋਤਿ ਅਮੰਡੰ ਭਾਨ ਪ੍ਰਭੰ ॥\
 > *bhujdaṅd akhaṅdaṅ tej prachaṅdaṅ, joti amaṅdaṅ bhān prabhaṅ*\
-> arm that cannot be broken, splendour blazing, light undimmed, radiant as the sun;
+> Arm that cannot be broken, splendour blazing, light undimmed, radiant as the sun;
 >
 > ਸੁਖ ਸੰਤਾ ਕਰਣੰ ਦੁਰਮਤਿ ਦਰਣੰ,\
 > ਕਿਲਵਿਖ ਹਰਣੰ ਅਸਿ ਸਰਣੰ ॥\
 > *sukh saṅtā karṇaṅ durmati darṇaṅ, kilvikh harṇaṅ asi sarṇaṅ*\
-> you bring peace to the saints, you crush evil thinking, you take away sin: asi, I have come to your refuge.
+> You bring peace to the saints, you crush evil thinking, you take away sin: I have come to your refuge, Sword.
 >
 > ਜੈ ਜੈ ਜਗ ਕਾਰਣ ਸ੍ਰਿਸਿ ਉਬਾਰਣ,\
 > ਮਮ ਪ੍ਰਤਿਪਾਰਣ ਜੈ ਤੇਗੰ ॥\
 > *jai jai jag kāraṇ srisi ubāraṇ, mam pratipāraṇ jai tegaṅ*\
-> Hail, hail, cause of the world, saviour of creation, my sustainer: hail to the tegh.
+> Hail, hail, cause of the world, saviour of creation, my sustainer: hail to the Sword.
 
 *Dohra* ਦੋਹਰਾ
 
