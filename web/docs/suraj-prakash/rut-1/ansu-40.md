@@ -2,6 +2,12 @@
 
 ## Kesari Chand and Pamma Disgraced
 
+>Note
+> 1. The Guru's initial response
+> 2. Kesari Chand's insult
+> 3. Nand Chand's request and the Guru's response
+> 4. Mother's request and Guru's reply
+
 *Dohra* ਦੋਹਰਾ
 
 -ਵਸਤੁਨਿ ਕੋ ਭਾਰਾ ਹਮਹਿਂ, ਦੇਨਿ ਕਹਯੋ ਮਤਿਮੰਦ।\
@@ -219,7 +225,7 @@ Why should we fall into his trap? We saw it from the first and made it plain. (2
 
 "We do not live as his subjects, and by fraud he would have the things sent to him.\
 Once they are given, the trouble comes after; so why not stop it at the first?\
-How long shall we stay afraid of battle, when it is for this that Sri As Ket[^17] sent us?\
+How long shall we stay afraid of battle, when it is for this that Sri Asiket[^17] sent us?\
 Great battles are to be fought, and many evil men in the world destroyed. (22)
 
 ਰਚਹਿਂ ਅਨੀਤਿ ਮਹੀਪਤਿ ਜੇਤਿਕ, ਸਭਿ ਕੋ ਦੈ ਹੈਂ ਮੂਲ ਉਖੇਰਿ।\
@@ -240,7 +246,7 @@ As Akal Purakh[^18] commands, so it shall come to pass, and before long. (23)
 "The masaṅds are afraid, great cowards all; let no one hold to their counsel now.\
 We shall not strike first, nor turn back if he sends his warriors to war.\
 Why have you taken fright and let go of patience? Watch what comes to pass.\
-Kharag Ket will make all things well; cast the worry from your heart." (24)
+Kharagket will make all things well; cast the worry from your heart." (24)
 
 ਸੁਨਤਿ ਮਾਤ ਕਰਿ ਮੌਨ ਉਠੀ ਪੁਨ ਪੀਛੇ ਸਤਿਗੁਰ ਸ਼ਸਤ੍ਰ ਮੰਗਾਇ।\
 ਸ਼ੁਭ ਸਥਾਨ ਊਚੇ ਧਰਿਵਾਵਹਿਂ ਮਹਿਕਤਿ ਆਛੀ ਧੂਪ ਧੁਖਾਇ।\
