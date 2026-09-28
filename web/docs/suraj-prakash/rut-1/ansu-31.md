@@ -3,10 +3,10 @@
 ## Bhim Chand's Envoy Comes to Ask for the Elephant
 
 Note:
-Bhim Chand's motive for obtaining the Prasadi elephant?/
-Bhim Chand's plan to obtain the elephant?/
-Bhim Chand's instructions given to his envoy before he went to Anandpur?/
-Treatment of the envoy when they arrived?/
+Bhim Chand's motive for obtaining the Prasadi elephant? \
+Bhim Chand's plan to obtain the elephant? \
+Bhim Chand's instructions given to his envoy before he went to Anandpur? \
+Treatment of the envoy when they arrived? \
 
 *Dohra* ਦੋਹਰਾ
 
