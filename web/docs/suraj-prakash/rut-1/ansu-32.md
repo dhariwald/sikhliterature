@@ -3,8 +3,8 @@
 ## The Envoy Goes Back
 
 Note
->Guru Gobind Singh's reason for refusing to give the elephant\
->the alternative offered by the Guru
+>1 Guru Gobind Singh's reason for refusing to give the elephant\
+>2 The alternative offered by the Guru
 
 *Dohra* ਦੋਹਰਾ
 
