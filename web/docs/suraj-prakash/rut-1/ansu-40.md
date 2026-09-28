@@ -7,7 +7,7 @@
 -ਵਸਤੁਨਿ ਕੋ ਭਾਰਾ ਹਮਹਿਂ, ਦੇਨਿ ਕਹਯੋ ਮਤਿਮੰਦ।\
 ਬਿਵਹਾਰੀ ਜਿਮ ਬਨਿਕ ਹ੍ਵੈ, ਜਾਨਹਿਂ ਤਿਨਹੁਂ ਮਨਿੰਦ- ॥੧॥
 
-*He tells us, this fool, to take the hire for his goods;[^1]*\
+*He tells us, this fool, he will pay rent to take the goods;[^1]*\
 *he takes us for businessmen, for banias (merchants) in trade.* (1)
 
 *Savaiya Chhand* ਸ੍ਵੈਯਾ ਛੰਦ
