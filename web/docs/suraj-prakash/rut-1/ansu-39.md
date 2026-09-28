@@ -2,6 +2,10 @@
 
 ## Kesri Chand and Pamma Come to Anandpur
 
+>Note\
+>1. 4 things that are asked for by Pamma & Kesri\
+>2. What Pamma & Kesri promise & offer in return
+
 *Dohra* ਦੋਹਰਾ
 
 ਭੀਮਚੰਦ ਬਿਚ ਸਭਾ ਕੇ, ਦੋਨਹੁਂ ਪਠੇ ਬੁਲਾਇ।\
