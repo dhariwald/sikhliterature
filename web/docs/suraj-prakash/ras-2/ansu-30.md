@@ -2,8 +2,12 @@
 
 ## Bhai Kalyana Reaches the Raja of Mandi
 
-Questions: 1. Who is Bhai Kalyana, where did he go, and for what purpose?
-2. What did he say about worshipping stones?
+Questions: 
+>1. Where did Bhai Kalyana go
+>2. Purpose of travel
+>3. What was celebrated/worshipped where he arrived
+>4. Bhai Kalyana's message to the people
+>5. Where was he taken?
 
 *Dohra* ਦੋਹਰਾ
 
