@@ -3,13 +3,13 @@
 ## The Second Episode of Banda Bahadur
 
 >Note:\
->Narain Das's reason for making the raised bed
->Narain Das's attitude toward holy men?
->The mahant's warning 
->Guru Gobind Singh's reason for wanting to visit Narain Das?
->Origin and contents of the book given to Narain Das
->The warning he got about revealing the book's contents?
->What the Guru saw in Nanded at Narain Das dera
+>Narain Das's reason for making the raised bed\
+>Narain Das's attitude toward holy men?\
+>The mahant's warning \
+>Guru Gobind Singh's reason for wanting to visit Narain Das?\
+>Origin and contents of the book given to Narain Das\
+>The warning about why to keep the book a secret?\
+>What the Guru saw in Nanded at his (Banda's) town
 
 *Dohra* ਦੋਹਰਾ
 
