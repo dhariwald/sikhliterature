@@ -2,6 +2,11 @@
 
 ## The Hill Rajas Gather and Take Counsel
 
+>Note:\
+>1. Bhim Chand's message to Anandpur Sahib
+>2. The Guru's response
+>3. Kripal Katoch's advice to Bhim Chand
+
 *Dohra* ਦੋਹਰਾ
 
 ਗਯੋ ਕੇਸਰੀ ਚੰਦ ਤਬਿ, ਪੰਮਾ ਜਿਸ ਕੇ ਸਾਥ।\
@@ -43,14 +48,12 @@ He makes ready for battle, growing stronger by the day;\
 if you do nothing to stop it, he will drive you from your town." (4)
 
 ਭੀਮਚੰਦ ਕਰਿ ਕੋਪ ਕੋ, 'ਕੈਸੇ ਸਭਿ ਹੋਈ।\
-ਮਿਲੇ ਕਿ ਨਹਿਂ, ਬੋਲੇ ਕਿ ਨਹਿਂ?\
-ਕਹੀਅਹਿ ਸਭਿ ਹੋਈ।\
+ਮਿਲੇ ਕਿ ਨਹਿਂ, ਬੋਲੇ ਕਿ ਨਹਿਂ? ਕਹੀਅਹਿ ਸਭਿ ਹੋਈ।\
 ਅਸ ਬਿਗਾਰ ਕਿਸ ਬਿਧਿ ਭਯੋ, ਮਾਰਨ ਲਗਿ ਬਾਤੀ।\
 ਕਰਹੁ ਸੁਨਾਵਨਿ ਛੋਰ ਤੇ, ਬੀਤੀ ਜਿਸ ਭਾਂਤੀ' ॥੫॥
 
 Bhim Chand flared with anger: "How did all this happen?\
-Did you meet him or not? Did he speak or not?\
-Tell me all that happened.\
+Did you meet him or not? Did he speak or not?\ Tell me all that happened.\
 How did it go so wrong that it came to blows?\
 Tell it from the start, just as it went." (5)
 
