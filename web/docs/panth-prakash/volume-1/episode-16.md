@@ -4,6 +4,11 @@
 
 ### (im khālsai panth bhayo utpann...: so the Khalsa Panth came into being...)
 
+1 What did the Guru allow five Singhs to do?
+2 What did the Guru offer, and what did the Singhs ask for?
+3 What problems began to develop as the Panth grew?
+4 How did conflict develop between the Singhs and the Sultanis?
+
 *Dohra* ਦੋਹਰਾ
 
 ਉਸੀ ਦਿਵਸ ਤੈ ਖਾਲਸੇ ਲਗਯੋ ਪਸਾਰੋ ਹੋਨ ॥\
