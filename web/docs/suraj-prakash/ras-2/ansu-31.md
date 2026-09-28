@@ -8,6 +8,7 @@
 >3. The Raja's demand
 >4. Kalyana's response
 >5. How Kalyana was saved
+>6. Kalyana's message to the Guru about the Raja
 
 *Dohra* ਦੋਹਰਾ
 
