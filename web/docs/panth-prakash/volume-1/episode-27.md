@@ -4,11 +4,11 @@
 
 ### (Dādū Duār mahant Jait Rām nāl mel: The Meeting with Mahant Jait Ram at Dadu Dwar)
 
->Note:/
->Name of banis (compositions) recited by the Singhs
->Name of the mahant who met the Guru at Dadu Dwar/
->The Mahant's request to the Guru/
->The Guru's response/
+>Note:\
+>Name of banis (compositions) recited by the Singhs\
+>Name of the mahant who met the Guru at Dadu Dwar\
+>The Mahant's request to the Guru\
+>The Guru's response\
 
 *Dohra* ਦੋਹਰਾ
 
