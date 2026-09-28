@@ -2,6 +2,10 @@
 
 ## The Envoy Goes Back
 
+Note
+>Guru Gobind Singh's reason for refusing to give the elephant
+>the alternative offered by the Guru
+
 *Dohra* ਦੋਹਰਾ
 
 ਨੰਦ ਚੰਦ ਕਰ ਬੰਦਿ ਕਹਿ, 'ਭੀਮਚੰਦ ਸੈਲਿੰਦ।\
