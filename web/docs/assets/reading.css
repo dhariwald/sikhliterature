@@ -368,6 +368,19 @@ body[data-reader-tint="sepia"]   .md-typeset blockquote { color: #241d13; }
 }
 .rdr-switch span { color: var(--md-default-fg-color); }
 .rdr-switch input { accent-color: var(--md-accent-fg-color); width: 1rem; height: 1rem; }
+.rdr-switch.rdr-sub { padding-left: .9rem; }
+.rdr-switch.rdr-sub span { color: var(--md-default-fg-color--light); }
+.rdr-row .rdr-switch.rdr-sub { margin-top: .35rem; padding-left: 0; }
+.rdr-panel kbd {
+  display: inline-block;
+  margin-left: .35em;
+  padding: 0 .35em;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 3px;
+  font: 600 .6rem/1.5 system-ui, sans-serif;
+  color: var(--md-default-fg-color--light);
+  vertical-align: 1px;
+}
 .rdr-note { margin: .45rem 0 0; font-size: .64rem; line-height: 1.5; color: var(--md-default-fg-color--lighter); }
 .rdr-reset {
   width: 100%;
@@ -573,6 +586,11 @@ body.rdr-layout-lines .md-typeset .rdr-v-split { display: none; }
 .md-typeset .rdr-pair > .rdr-pg { font-weight: 600; }
 .md-typeset .rdr-pair > .rdr-pe { margin-top: .1em; }
 .md-typeset .rdr-v-split > p.rdr-gm { margin-bottom: .6em; }
+
+/* Slideshow, reveal lines one at a time: lines not yet shown keep their
+   place, so the verse does not jump as each one appears. */
+.md-typeset .rdr-pair { transition: opacity .3s ease; }
+.md-typeset .rdr-pair.rdr-hidden { opacity: 0; visibility: hidden; }
 
 /* Slideshow, 1 line per slide: only the current pair of the verse. */
 body.rdr-para.rdr-one-line .md-typeset .rdr-pair { display: none; }
