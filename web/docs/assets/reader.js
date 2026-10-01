@@ -113,6 +113,8 @@
     gurmukhi: true,  // show the Gurmukhi text
     layout: 'split', // split | lines   -- how a verse is laid out
     perslide: 'verse', // verse | line  -- slideshow, line-by-line layout only
+    build: false,    // slideshow, 1 verse per slide: reveal the lines one at a time
+    wheel: false,    // slideshow: the mouse wheel changes slide
     scale: 100,      // per cent
     measure: 42,     // rem
     leading: 185,    // hundredths
@@ -444,10 +446,32 @@
     return !/[A-Za-z0-9]/.test(rest) && el.textContent.trim().length < 40;
   }
 
-  function show(i) {
+  /* Lines revealed one at a time within a slide (line by line, 1 verse per
+     slide, "Reveal lines one at a time"). step = how many are showing. */
+  var reveal = [], step = 0;
+
+  function building() { return S.build && S.layout === 'lines' && S.perslide === 'verse'; }
+
+  function paintReveal() {
+    reveal.forEach(function (p, k) { p.classList.toggle('rdr-hidden', k >= step); });
+    paintBar();
+  }
+
+  function paintBar() {
+    count.textContent = (at + 1) + ' / ' + units.length;
+    prevBtn.disabled = at === 0 && step <= 1;
+    var end = at === units.length - 1 && step >= reveal.length;
+    var onward = end && document.querySelector('a.rdr-next');
+    nextBtn.disabled = end && !onward;
+    nextBtn.innerHTML = onward ? 'Next reading &#8594;' : '&#8594;';
+    nextBtn.classList.toggle('rdr-onward', !!onward);
+  }
+
+  function show(i, fromEnd) {
     if (!units.length) return;
     at = Math.max(0, Math.min(units.length - 1, i));
     var host = article();
+    host.querySelectorAll('.rdr-hidden').forEach(function (e) { e.classList.remove('rdr-hidden'); });
     host.querySelectorAll('.rdr-unit-on').forEach(function (e) { e.classList.remove('rdr-unit-on', 'rdr-unit-first'); });
     units[at].forEach(function (e) {
       e.classList.add('rdr-unit-on');
@@ -455,25 +479,32 @@
       if (v) v.classList.add('rdr-unit-on');
     });
     units[at][0].classList.add('rdr-unit-first');
-    count.textContent = (at + 1) + ' / ' + units.length;
-    prevBtn.disabled = at === 0;
-    var end = at === units.length - 1;
-    var onward = end && document.querySelector('a.rdr-next');
-    nextBtn.disabled = end && !onward;
-    nextBtn.innerHTML = onward ? 'Next reading &#8594;' : '&#8594;';
-    nextBtn.classList.toggle('rdr-onward', !!onward);
+    reveal = [];
+    if (building()) {
+      units[at].forEach(function (e) {
+        if (e.classList.contains('rdr-verse')) reveal = reveal.concat([].slice.call(e.querySelectorAll('.rdr-pair')));
+      });
+    }
+    step = reveal.length ? (fromEnd ? reveal.length : 1) : 0;
+    paintReveal();
     progress.style.width = ((at + 1) / units.length * 100) + '%';
     window.scrollTo(0, 0);
     try { localStorage.setItem(POS + location.pathname, String(at)); } catch (e) {}
   }
 
   function forward() {
+    if (step < reveal.length) { step++; paintReveal(); return; }
     if (at < units.length - 1) { show(at + 1); return; }
     var link = document.querySelector('a.rdr-next');
     if (link) {
       try { localStorage.setItem(POS + new URL(link.href).pathname, '0'); } catch (e) {}
       location.href = link.href;
     }
+  }
+
+  function back() {
+    if (step > 1) { step--; paintReveal(); return; }
+    if (at > 0) show(at - 1, true);
   }
 
   function paraAvailable() { buildUnits(); return units.length >= 3; }
@@ -570,6 +601,7 @@
     var navBtn = el('<button type="button" class="rdr-navbtn" title="Sidebars" aria-label="Toggle sidebars">' +
       '<svg viewBox="0 0 24 24"><path d="M3 5h18v2H3V5m0 6h18v2H3v-2m0 6h18v2H3v-2Z"/></svg></button>');
     var aaBtn = el('<button type="button" title="Reader settings" aria-label="Reader settings">Aa</button>');
+    var hasGm = !!document.querySelector('.rdr-gm, .rdr-gml, .rdr-gmw');
     fab.appendChild(navBtn);
     fab.appendChild(aaBtn);
     document.body.appendChild(fab);
@@ -652,11 +684,15 @@
       return l;
     }
 
-    var gmSw = sw('Show Gurmukhi', function () { return S.gurmukhi; }, function (v) {
+    function setGurmukhi(v) {
       S.gurmukhi = v; apply(); save();
       gselRow.style.display = v ? '' : 'none';
+      if (gmSw) gmSw.sync();
       reslide();
-    });
+    }
+    var gmSw = null;
+    gmSw = sw('Show Gurmukhi  <kbd>G</kbd>', function () { return S.gurmukhi; }, setGurmukhi);
+
     gselRow.style.display = S.gurmukhi ? '' : 'none';
     panel.appendChild(gmSw);
 
@@ -669,8 +705,17 @@
         reslide();
       }));
     perRow = row('Slideshow', '', seg('perslide', [['verse', '1 verse per slide'], ['line', '1 line per slide']],
-      function () { return S.perslide; }, function (v) { S.perslide = v; apply(); save(); reslide(); }));
+      function () { return S.perslide; }, function (v) {
+        S.perslide = v; apply(); save();
+        buildSw.style.display = v === 'verse' ? '' : 'none';
+        reslide();
+      }));
     perRow.style.display = S.layout === 'lines' ? '' : 'none';
+    var buildSw = sw('Reveal lines one at a time', function () { return S.build; },
+      function (v) { S.build = v; save(); reslide(); });
+    buildSw.classList.add('rdr-sub');
+    buildSw.style.display = S.perslide === 'verse' ? '' : 'none';
+    perRow.appendChild(buildSw);
     layoutRow.style.marginTop = '.8rem';
     if (hasVerses) { panel.appendChild(layoutRow); panel.appendChild(perRow); }
 
@@ -691,7 +736,11 @@
       if (on) panel.hidden = true;
     });
     panel.appendChild(paraSw);
-    var note = el('<p class="rdr-note">One slide at a time. Move with the arrow buttons, &#8592; &#8594;, space, or a swipe.</p>');
+    var wheelSw = sw('Mouse wheel changes slide', function () { return S.wheel; },
+      function (v) { S.wheel = v; save(); });
+    wheelSw.classList.add('rdr-sub', 'rdr-desktop');
+    panel.appendChild(wheelSw);
+    var note = el('<p class="rdr-note">One slide at a time. Move with the arrow buttons, &#8592; &#8594;, space, a presenter clicker, or a swipe. <kbd>G</kbd> shows or hides the Gurmukhi on any page.</p>');
     panel.appendChild(note);
 
     var reset = el('<button type="button" class="rdr-reset">Reset to defaults</button>');
@@ -701,7 +750,7 @@
       setPara(false);
       sel.value = S.font;
       gsel.value = S.gmfont; gselRow.style.display = '';
-      gmSw.sync();
+      gmSw.sync(); wheelSw.sync(); buildSw.sync();
       perRow.style.display = 'none';
       sizeIn.sync(); widthIn.sync(); leadIn.sync();
       navSw.sync(); tocSw.sync(); paraSw.sync();
@@ -731,22 +780,49 @@
     });
 
     /* slideshow wiring */
-    prevBtn.addEventListener('click', function () { show(at - 1); });
+    prevBtn.addEventListener('click', function () { back(); });
     nextBtn.addEventListener('click', forward);
     exit.addEventListener('click', function () { setPara(false); S.para = false; save(); paraSw.sync(); });
 
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape' && !panel.hidden) { panel.hidden = true; return; }
+      if (e.target.matches('input, select, textarea, [contenteditable]')) return;
+      if ((e.key === 'g' || e.key === 'G') && !e.ctrlKey && !e.metaKey && !e.altKey &&
+          hasGm) {
+        e.preventDefault(); setGurmukhi(!S.gurmukhi); return;
+      }
       if (!para) return;
-      if (e.target.matches('input, select, textarea')) return;
       if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ' || e.key === 'Spacebar') {
         e.preventDefault(); forward();
       } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
-        e.preventDefault(); show(at - 1);
+        e.preventDefault(); back();
       } else if (e.key === 'Home') { e.preventDefault(); show(0); }
       else if (e.key === 'End') { e.preventDefault(); show(units.length - 1); }
       else if (e.key === 'Escape') { setPara(false); S.para = false; save(); paraSw.sync(); }
     });
+
+    /* Mouse wheel (opt-in). A slide taller than the screen scrolls first and
+       only turns over at its end. One turn per flick: a trackpad's coasting
+       is ignored until the wheel has been still for a moment. */
+    var wheelLock = false, wheelAcc = 0, wheelQuiet = null;
+    document.addEventListener('wheel', function (e) {
+      if (!para || !S.wheel || e.ctrlKey) return;
+      if (e.target.closest('.rdr-panel')) return;
+      var dy = e.deltaMode === 1 ? e.deltaY * 40 : e.deltaY;
+      if (Math.abs(dy) < Math.abs(e.deltaX)) return;
+      var se = document.scrollingElement || document.documentElement;
+      var atBottom = se.scrollTop + window.innerHeight >= se.scrollHeight - 2;
+      var atTop = se.scrollTop <= 0;
+      if ((dy > 0 && !atBottom) || (dy < 0 && !atTop)) return;
+      e.preventDefault();
+      clearTimeout(wheelQuiet);
+      wheelQuiet = setTimeout(function () { wheelLock = false; wheelAcc = 0; }, 260);
+      if (wheelLock) return;
+      wheelAcc += dy;
+      if (Math.abs(wheelAcc) < 40) return;
+      wheelLock = true; wheelAcc = 0;
+      if (dy > 0) forward(); else back();
+    }, { passive: false });
 
     var tx = 0, ty = 0;
     document.addEventListener('touchstart', function (e) {
@@ -757,7 +833,7 @@
       if (!para || !e.changedTouches.length) return;
       var dx = e.changedTouches[0].clientX - tx;
       var dy = e.changedTouches[0].clientY - ty;
-      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) { if (dx < 0) forward(); else show(at - 1); }
+      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) { if (dx < 0) forward(); else back(); }
     }, { passive: true });
 
     /* Only offer slideshow mode where there is something to page through. */
