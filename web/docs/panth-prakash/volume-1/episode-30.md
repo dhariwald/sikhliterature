@@ -4,6 +4,10 @@
 
 ### (jo tūṅ siṅghan khush rakhaiṅ tau rahaiṅ sadā tūṅ sukhi: If you keep the Singhs content, you shall live in peace forever)
 
+>note:\\
+> 1. Authority given to the 5 Singhs
+> 2. Guru's Warning to Banda
+
 *Chaupai* ਚੌਪਈ
 
 ਤਬੈ ਖਾਲਸੇ ਕਰੀ ਅਰਦਾਸ ॥ ਹਾਥ ਜੋੜ ਸ੍ਰੀ ਸਤਿਗੁਰ ਪਾਸ ॥\
