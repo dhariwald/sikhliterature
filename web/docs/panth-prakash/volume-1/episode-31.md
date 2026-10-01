@@ -4,6 +4,9 @@
 
 ### (...jau māṅgai tis soū divāvai: ...whatever a man asked, he had it given him)
 
+>note:\
+>1. Banda's test, and its result
+
 *Dohra* ਦੋਹਰਾ
 
 ਤੌ ਚਿਤ ਬੰਦੈ ਇਮ ਅਈ ਅਬ ਲੀਜੈ ਬਚਨ ਪ੍ਰਤੋਇ ॥\
