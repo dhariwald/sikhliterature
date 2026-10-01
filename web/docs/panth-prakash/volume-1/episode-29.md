@@ -4,6 +4,13 @@
 
 ### (tab un kahyo 'maiṅ baṅdā torā'...: Then he said, 'I am your servant'...)
 
+>note:\
+>1. What angered Banda?
+>2. Mission given to Banda by the Guru
+>3. The teaching about becoming a Sikh
+>4. Significance of 5 arrows
+>5. Names of 5 Singhs in command, assigned by Guru
+
 *Dohra* ਦੋਹਰਾ
 
 ਪਹੁੰਚਯੋ ਸਤਿਗੁਰ ਜਿਹ ਸਮੇਂ ਗਯੋ ਬੰਦੋ ਕਹੂੰ ਔਰ ॥\
@@ -323,7 +330,7 @@ who can tell a Sikh from one who is not." (38)
 
 Then the Guru joined Majhail Singhs to him;\
 he sent along Baba Binod Singh and Kahn Singh,[^19]\
-Daya Singh and Aunin Singh of the Bhallas,[^20]\
+Daya Singh and Aunin Singh of the Bhallas, [^20]\
 and from his own presence he sent bhujaṅgīs[^21] with Banda. (39)
 
 ਬਾਜ ਸਿੰਘ ਬਲ ਮੀਰ ਪੁਰ ਪੱਟੀ ਵਾਰੋ ॥ ਸਤਿਗੁਰ ਸੰਗ ਦਏ ਭਾਈ ਚਾਰੋਂ ॥\
@@ -379,7 +386,7 @@ notes; the project docs abbreviate them KS and BSS. Cite as Panth Prakash 29.4.*
 [^17]: Majhail: of the Majha, the country between the Beas and the Ravi around Amritsar, where the earlier Gurus founded Khadur, Goindwal, Amritsar and Tarn Taran.
 [^18]: Turks: the poet's word for the Muslim rulers and their armies, here the Mughals.
 [^19]: Baba Santa Singh's account: Binod Singh of Khadur was of Guru Angad's line, the Trehan clan, and Kahn Singh of Goindwal of Guru Amar Das's line, the Bhallas.
-[^20]: Bhallas: the Khatri clan of Guru Amar Das; Baba Santa Singh counts these two of his line as well.
+[^20]: Bhallas: the Khatri clan of Guru Amar Das; Baba Santa Singh counts these two of his line as well. Alternatively, the names are also understood as being Baj Singh, and Fateh Singh.
 [^21]: bhujaṅgīs: young Singhs, literally serpents; Baba Santa Singh: warriors like black cobras, who stayed close to the Guru.
 [^22]: Bal: a Jatt clan · Mirpur: a village by Patti, a town of the Majha south of Amritsar · four brothers: the verse does not name them; Kulwant Singh names Ram Singh as Baj Singh's brother.
 [^23]: ardās: the Sikh prayer of petition; here a written request from the Guru, which Baba Santa Singh calls a hukamnama.
