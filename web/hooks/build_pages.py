@@ -43,6 +43,61 @@ def _audio_for(src_uri):
     return [AUDIO_DIR + '/' + stem + ext for ext in AUDIO_EXTS]
 
 
+_H2 = re.compile(r'^##\s+(.*?)\s*#*\s*$')
+
+
+def _header(path):
+    '''The short descriptive header of a reading: its first "## " line,
+    without footnote markers or markdown emphasis. '' if there is none.'''
+    try:
+        with open(path, encoding='utf8') as fh:
+            in_fence = False
+            for line in fh:
+                if _FENCE.match(line):
+                    in_fence = not in_fence
+                    continue
+                m = None if in_fence else _H2.match(line.rstrip('\n'))
+                if m:
+                    t = re.sub(r'\[\^[^\]]*\]', '', m.group(1))
+                    t = re.sub(r'[*_`]', '', t).strip()
+                    return t
+    except OSError:
+        pass
+    return ''
+
+
+# The next posted reading after each one, filled in by on_files:
+#   'panth-prakash/volume-1/episode-15.md' -> ('panth-prakash/volume-1/episode-16.md', 'Episode 16', 'header')
+_NEXT = {}
+
+# Gurmukhi fonts dropped into docs/assets/fonts/ are offered in the Reader
+# panel automatically. The list is written to a small script at build time.
+FONT_DIR = 'assets/fonts'
+FONT_EXTS = ('.woff2', '.woff', '.ttf', '.otf')
+
+
+def _font_list(docs_dir):
+    folder = os.path.join(docs_dir, FONT_DIR)
+    fams = {}
+    if not os.path.isdir(folder):
+        return []
+    for name in sorted(os.listdir(folder)):
+        stem, ext = os.path.splitext(name)
+        if ext.lower() not in FONT_EXTS:
+            continue
+        low = stem.lower()
+        weight = 700 if 'bold' in low else 400
+        style = 'italic' if 'italic' in low else 'normal'
+        fam = re.sub(r'[-_ ]?(regular|bold|italic|book|normal|medium)\b', '', stem, flags=re.I)
+        fam = re.sub(r'[-_]+', ' ', fam).strip() or stem
+        fam = re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', fam)
+        fam = ' '.join(w[:1].upper() + w[1:] for w in fam.split())
+        entry = fams.setdefault(fam, {'id': 'local-' + re.sub(r'[^a-z0-9]+', '-', fam.lower()).strip('-'),
+                                      'name': fam, 'family': fam, 'faces': []})
+        entry['faces'].append({'url': 'fonts/' + name, 'weight': weight, 'style': style})
+    return list(fams.values())
+
+
 def _total(text):
     return sum(d['to'] - d['from'] + 1 for d in text['divisions'])
 
@@ -68,6 +123,29 @@ def on_files(files, config):
         return [n for n in range(div['from'], div['to'] + 1) if posted(_uri(text, div, n))]
 
     texts = _load()
+
+    # ---- the reading order, for the "next" link on each page --------------
+    _NEXT.clear()
+    for text in texts:
+        order = []
+        for div in text['divisions']:
+            for n in numbers(text, div):
+                order.append((_uri(text, div, n), text['unit'] + ' ' + str(n), div['title']))
+        for a, b in zip(order, order[1:]):
+            name = b[1] if a[2] == b[2] else b[2] + ', ' + b[1]   # say so when it crosses a Ras / volume
+            _NEXT[a[0]] = (b[0], name, _header(os.path.join(docs_dir, b[0])))
+
+    # ---- the Gurmukhi fonts on offer -------------------------------------
+    import json
+    fonts = _font_list(docs_dir)
+    add.append(File.generated(config, 'assets/gurmukhi-fonts.js', content=(
+        '/* Generated at build time from docs/assets/fonts/. Do not edit. */\n'
+        'window.SIKHLIT_FONTS = (function () {\n'
+        '  var base = (document.currentScript && document.currentScript.src) || location.href;\n'
+        '  var list = ' + json.dumps(fonts, ensure_ascii=False) + ';\n'
+        '  list.forEach(function (f) { f.faces.forEach(function (x) { x.url = new URL(x.url, base).href; }); });\n'
+        '  return list;\n'
+        '})();\n')))
 
     # ---- home ------------------------------------------------------------
     home = ['# Sikh Literature', '']
@@ -102,16 +180,19 @@ def on_files(files, config):
             any_live = True
 
             span = str(len(live)) + ' of ' + str(div['to'] - div['from'] + 1)
-            index += ['## ' + div['title'], '', '*' + span + ' posted.*', '']
-            division = ['# ' + text['title'] + ' &middot; ' + div['title'], '',
+            guru = (' <span class="div-guru"><span class="div-sep">&mdash; </span>' + _html.escape(div['guru']) + '</span>') if div.get('guru') else ''
+            index += ['## ' + div['title'] + guru, '', '*' + span + ' posted.*', '']
+            division = ['# ' + text['title'] + ' &middot; ' + div['title'] + guru, '',
                         '*' + span + ' posted.*', '']
 
             for n in live:
                 name = unit + ' ' + str(n)
                 leaf = slug + '-' + str(n).zfill(2) + '.md'
                 tag = ' &middot; *audio*' if voiced(_uri(text, div, n)) else ''
-                index.append('- [' + name + '](' + div['slug'] + '/' + leaf + ')' + tag)
-                division.append('- [' + name + '](' + leaf + ')' + tag)
+                head = _header(os.path.join(docs_dir, _uri(text, div, n)))
+                desc = (' <span class="idx-head">' + _html.escape(head) + '</span>') if head else ''
+                index.append('- [' + name + '](' + div['slug'] + '/' + leaf + ')' + desc + tag)
+                division.append('- [' + name + '](' + leaf + ')' + desc + tag)
 
             index.append('')
             division += ['', '[All of ' + text['title'] + '](../index.md)']
@@ -188,10 +269,33 @@ def on_page_markdown(markdown, page, config, files):
     return markdown
 
 
+def _next_link(page, files):
+    nxt = _NEXT.get(page.file.src_uri)
+    if not nxt:
+        return ''
+    f = files.get_file_from_path(nxt[0])
+    if f is None:
+        return ''
+    head = ('<span class="rdr-next__head">' + _html.escape(nxt[2]) + '</span>') if nxt[2] else ''
+    return ('<a class="rdr-next" href="' + _html.escape(f.url_relative_to(page.file), quote=True) + '">'
+            '<span class="rdr-next__label">Next</span>'
+            '<span class="rdr-next__name">' + _html.escape(nxt[1]) + ' &rarr;</span>' + head + '</a>\n')
+
+
+# Where the notes begin: a "Notes" heading (with the rule above it), or
+# failing that the footnote list itself.
+_NOTES = re.compile(r'(?:<hr\s*/?>\s*)?<h[1-6][^>]*\bid="notes?"|<div class="footnote">', re.I)
+
+
 def on_page_content(html, page, config, files):
-    '''Attach the audio reading, if there is one. audio.js turns this plain
-    <audio> element into the floating player; without JavaScript it still
-    works as the browser's own player.'''
+    '''Add the link to the next reading just above the notes (or at the end
+    if there are none), then attach the audio reading, if there is one.
+    audio.js turns the plain <audio> element into the floating player;
+    without JavaScript it still works as the browser's own player.'''
+    link = _next_link(page, files)
+    if link:
+        m = _NOTES.search(html)
+        html = html[:m.start()] + link + html[m.start():] if m else html + '\n' + link
     found = page.meta.get('_audio')
     if not found:
         return html
@@ -199,6 +303,15 @@ def on_page_content(html, page, config, files):
     kind = ' type="' + mime + '"' if mime else ''
     return (html + '\n<audio class="aud-src" controls preload="metadata">'
             '<source src="' + _html.escape(url, quote=True) + '"' + kind + '></audio>\n')
+
+
+def on_config(config):
+    js = config['extra_javascript']
+    names = [str(x) for x in js]
+    if 'assets/gurmukhi-fonts.js' not in names:
+        at = names.index('assets/reader.js') if 'assets/reader.js' in names else 0
+        js.insert(at, 'assets/gurmukhi-fonts.js')
+    return config
 
 
 def on_nav(nav, config, files):
