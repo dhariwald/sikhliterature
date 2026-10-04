@@ -2,6 +2,11 @@
 
 *From Ganda Singh, **Life of Banda Singh Bahadur** (Amritsar: Khalsa College, 1935), pp. 55–74.*
 
+>1. Reason for the desire of "vengeance" by the Sikhs
+>2. The 3 types of men with Banda Singh
+>3. Wazir Khan's response to Banda's advances
+>4. Place and Date of Battle
+
 There were great rejoicings in the camp of Banda Singh on the arrival of the Majha and the Doaba Sikhs. Thanksgiving prayers were offered and *Karah Parsad* was freely distributed. The Sikhs anxiously looked forward to the happy prospect of the holy crusade against the condemned city of Sirhind and its Governor, while the number of plunderers, who followed the Sikhs to prey upon the countless riches that were supposed to have been amassed in the city during many centuries, was steadily increasing.
 
 Preparations for an attack on Sirhind were soon made. This infused a new spirit in the minds of the Sikhs, and 'the heavens resounded with their joyous war cries'.[^1]
