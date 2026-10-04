@@ -55,3 +55,11 @@ texts:
     unit: Chapter
     divisions:
       - {slug: chapters, title: "Chapters", from: 1, to: 20}
+
+  
+  - slug: the-sikh-religion
+    title: The Sikh Religion
+    subtitle: Its Gurus, Sacred Writings and Authors, Max Arthur Macauliffe, 1909
+    unit: Chapter
+    divisions:
+      - {slug: volume-5, title: "Volume 5", from: 1, to: 33, guru: "Sri Guru Gobind Singh Ji"}
