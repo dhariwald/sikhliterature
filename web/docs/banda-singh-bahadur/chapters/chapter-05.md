@@ -3,10 +3,7 @@
 *From Ganda Singh, **Life of Banda Singh Bahadur** (Amritsar: Khalsa College, 1935), pp. 50–54.*
 
 >Note\
->1. Reason for the desire of "vengeance" by the Sikhs
->2. The 3 types of men with Banda Singh
->3. Wazir Khan's response to Banda's advances
->4. Place and Date of Battle
+
 
 Banda Singh now hurried in the north-westerly direction to relieve the northern Sikhs, who had collected on the other side of the Sutlej near Kiratpur[^1] and were anxiously waiting for his orders. On his way the Hindus of Chhat[^2] appealed to him for protection against the aggressions of the local Muhammadans and complained of their usual high-handedness in the most pity-exciting language. Their loose morality and religious intolerance, they said, were a terror to their honour and faith. Banda Singh, therefore, occupied the small town of Chhat and placed it under a Sikh Amil.[^3]
 
