@@ -48,3 +48,10 @@ texts:
     divisions:
       - {slug: chapter-6, title: "Chapter 6", from: 1, to: 64}
       - {slug: chapter-7, title: "Chapter 7", from: 1, to: 23}
+
+  - slug: banda-singh-bahadur
+    title: Life of Banda Singh Bahadur
+    subtitle: Based on Contemporary and Original Records, Dr. Ganda Singh, 1935
+    unit: Chapter
+    divisions:
+      - {slug: chapters, title: "Chapters", from: 1, to: 20}
