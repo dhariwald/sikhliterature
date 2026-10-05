@@ -2,6 +2,8 @@
 
 *From Max Arthur Macauliffe, **The Sikh Religion: Its Gurus, Sacred Writings and Authors**, Vol. V (Oxford: Clarendon Press, 1909), Life of Guru Gobind Singh, pp. 11–17.*
 
+Note: Who invited Guru Sahib, where, and for what purpose?
+
 The Guru continued to hunt and practise arms. Companies of Sikhs used continually to visit him and make him offerings. Those who came for military service were received without reservation, and taught the profession of arms. In this way the Guru soon collected a considerable army. The masands continued their opposition and again went to complain to the Guru's mother.
 
 They represented to her, 'The Guru is very young, and hath no worldly experience. He hath stirred up strife between himself and the hill Raja. He hath no ally, for the Emperor beareth him no love. He hath taken the unprecedented course of refusing on two occasions Bhim Chand's request for the loan of the elephant. These hill chiefs are not afraid to fight and die. Wherefore, advise thy son that it is not politic to contend with them. If war begin, how shall Sikhs come with their offerings? And where shall we procure supplies for our public kitchen?'
