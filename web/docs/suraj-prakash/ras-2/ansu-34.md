@@ -2,6 +2,8 @@
 
 ## A Yogi Comes Out of Santokhsar
 
+>Outline/List the 7 philosophical questions asked by the Yogi.
+
 *Dohra* ਦੋਹਰਾ
 
 ਸ਼੍ਰੀ ਅਰਜਨ ਜੀ ਗੁਰ ਭਏ, ਪਰਉਪਕਾਰੀ ਪੀਨ।\
