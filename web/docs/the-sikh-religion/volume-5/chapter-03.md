@@ -2,6 +2,14 @@
 
 *From Max Arthur Macauliffe, **The Sikh Religion: Its Gurus, Sacred Writings and Authors**, Vol. V (Oxford: Clarendon Press, 1909), Life of Guru Gobind Singh, pp. 17–23.*
 
+>**Questions**
+>
+>1. Budhu Shah's plea, and the Guru's reply?
+>2. Fatah Shah made peace with whom?
+>3. Who brought the 500 Pathans?
+>4. Ram Rai's request at the Jamna?
+>5. Panjab Kaur's request, and the result?
+
 Ram Rai of Dehra Dun heard of the Guru's visit and of the construction of Paunta which was only about thirty miles distant from his residence. He apprehended that the Guru had come to punish him for his previous misdeeds, and he communicated his suspicions to his masands.
 
 Gurdas, who had accompanied Ram Rai to Dihli when sent there by Guru Har Rai, and who had remained with him ever since, urged that Guru Gobind Rai was not so vindictive and base as to take revenge. If, however, he manifested any signs of aggression, Gurdas's brother Tara, who was a warrior and skilful archer, would be able to oppose him and protect the city of Dehra Dun.
