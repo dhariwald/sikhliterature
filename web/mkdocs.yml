@@ -48,8 +48,11 @@ hooks:
 
 extra_css:
   - assets/reading.css
+  - assets/opening.css
 
 extra_javascript:
   - assets/footnotes.js
   - assets/reader.js
   - assets/audio.js
+  - assets/opening-text.js
+  - assets/opening.js
