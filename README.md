@@ -78,8 +78,7 @@ written in both layouts.
 ## Adding a Gurmukhi font
 
 Readers pick the Gurmukhi typeface in the **Aa** panel (Latin text keeps its own
-typeface). Five Google fonts are built in. To add another, e.g. the Tat Khalsa fonts from
-<https://tatkhalsa.org/fonts>, unzip it and upload the font file(s) to
+typeface). Five Google fonts are built in. To add another, unzip it and upload the font file(s) to
 `web/docs/assets/fonts/` (**Add file → Upload files**). `.woff2`, `.woff`, `.ttf` and
 `.otf` all work. The name in the menu comes from the file name
 (`RiyastiNaveen-Regular.ttf` → *Riyasti Naveen*); a file with *Bold* in its name becomes
