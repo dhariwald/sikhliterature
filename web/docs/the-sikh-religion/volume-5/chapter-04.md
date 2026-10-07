@@ -2,6 +2,16 @@
 
 *From Max Arthur Macauliffe, **The Sikh Religion: Its Gurus, Sacred Writings and Authors**, Vol. V (Oxford: Clarendon Press, 1909), Life of Guru Gobind Singh, pp. 24–33.*
 
+>**Questions**
+>
+>1. Guru's wedding gift?
+>2. Who was let through at Rajghat?
+>3. Bhim Chand's threat at the wedding?
+>4. Fatah Shah's first reply?
+>5. Which Pathan officer stayed loyal?
+>6. Pathans' offer to Fatah Shah?
+>7. Budhu Shah's answer to the desertion?
+
 The Guru set about extending Paunta and beautifying it with gardens and pleasure grounds. One day as he was sitting in his garden, he received an invitation[^1] from Raja Fatah Shah of Srinagar to his daughter's marriage with the son of Raja Bhim Chand of Bilaspur. The Guru declined the invitation on the ground that Bhim Chand was at enmity with him and a disturbance might result were the two to meet.
 
 The Guru, however, promised to send his finance minister with some troops to represent him. He accordingly gave orders to Diwan Nand Chand to hold himself in readiness and at the same time to provide a necklace of the value of one lakh and a quarter of rupees as a marriage present for Raja Fatah Shah's daughter.
