@@ -1,0 +1,153 @@
+/* Opening slides (opening.js). Uses the page's own colours, so it follows
+   whichever Day / Sepia / Night tint the reading is set to. */
+
+html.op-on { overflow: hidden; }
+
+.op-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.op-overlay[hidden] { display: none; }
+
+.op-stage {
+  --op-scale: 1;
+  position: absolute;
+  inset: 3vh 4vw 8vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.op-text { width: 100%; }
+.op-line + .op-line { margin-top: calc(5vh * var(--op-scale)); }
+.op-line p { margin: 0; }
+
+.op-g {
+  font-family: var(--reader-gm, "Noto Serif Gurmukhi"), "Noto Serif Gurmukhi", serif;
+  font-weight: 600;
+  font-size: calc(6.4vh * var(--op-scale));
+  line-height: 1.45;
+}
+.op-t {
+  font-family: var(--reader-stack, "Lora"), Georgia, serif;
+  font-style: italic;
+  font-size: calc(3.6vh * var(--op-scale));
+  line-height: 1.4;
+  color: var(--md-default-fg-color--light);
+  margin-top: calc(.6vh * var(--op-scale)) !important;
+}
+.op-e {
+  font-family: var(--reader-stack, "Lora"), Georgia, serif;
+  font-size: calc(3.9vh * var(--op-scale));
+  line-height: 1.4;
+  margin-top: calc(.4vh * var(--op-scale)) !important;
+}
+.op-g, .op-t { white-space: nowrap; }
+.op-nb { white-space: nowrap; }
+.op-gloss { color: var(--md-default-fg-color--lighter); font-size: .85em; }
+
+.op-cite {
+  margin-top: calc(5.5vh * var(--op-scale));
+  display: flex;
+  flex-direction: column;
+  gap: calc(.4vh * var(--op-scale));
+  font-family: var(--reader-stack, "Lora"), Georgia, serif;
+  font-size: calc(2.5vh * var(--op-scale));
+  color: var(--md-default-fg-color--light);
+}
+.op-cite span[lang="pa"] { font-family: var(--reader-gm, "Noto Serif Gurmukhi"), "Noto Serif Gurmukhi", serif; }
+
+/* "Verse n of 8" with small correction arrows, on the last slide only. */
+.op-tune {
+  margin-top: calc(2.2vh * var(--op-scale));
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  font: calc(1.8vh * var(--op-scale)) / 1 system-ui, sans-serif;
+  color: var(--md-default-fg-color--lighter);
+}
+.op-tune button {
+  border: 0;
+  background: none;
+  color: inherit;
+  font-size: 1.6em;
+  line-height: 1;
+  padding: 0 .4rem;
+  cursor: pointer;
+}
+.op-tune button:hover { color: var(--md-accent-fg-color); }
+
+/* Faint control strip along the bottom edge. */
+.op-nav {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 1.6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font: 13px/1 system-ui, sans-serif;
+  color: var(--md-default-fg-color--lighter);
+  opacity: .5;
+  transition: opacity .2s;
+}
+.op-nav:hover { opacity: 1; }
+.op-nav button {
+  min-width: 2.4rem;
+  height: 2rem;
+  padding: 0 .7rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  font: inherit;
+  font-size: 15px;
+  cursor: pointer;
+}
+.op-nav button:disabled { opacity: .3; cursor: default; }
+.op-nav .op-close { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; }
+.op-count { min-width: 3.5rem; text-align: center; font-variant-numeric: tabular-nums; }
+
+/* The open button: small and faint, bottom-left, clear of the reader's own buttons. */
+.op-open {
+  position: fixed;
+  left: max(1rem, env(safe-area-inset-left));
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  z-index: 18;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  height: 2.4rem;
+  padding: 0 .9rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 1.2rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color--light);
+  font: 600 13px/1 system-ui, sans-serif;
+  letter-spacing: .02em;
+  cursor: pointer;
+  opacity: .55;
+  transition: opacity .2s;
+}
+.op-open:hover, .op-open:focus-visible { opacity: 1; color: var(--md-accent-fg-color); border-color: var(--md-accent-fg-color); }
+.op-open kbd {
+  font: 600 11px/1 system-ui, sans-serif;
+  padding: .2rem .35rem;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  opacity: .7;
+}
+body.rdr-para .op-open { bottom: calc(max(1rem, env(safe-area-inset-bottom)) + 4.4rem); }
+html.op-on .op-open { display: none; }
+
+@media print { .op-open, .op-overlay { display: none !important; } }
