@@ -28,6 +28,13 @@ html.op-on { overflow: hidden; }
 }
 
 .op-text { width: 100%; }
+.op-head {
+  margin: 0 0 calc(2.6vh * var(--op-scale));
+  font-size: calc(2.8vh * var(--op-scale));
+  color: var(--md-default-fg-color--light);
+}
+.op-head span[lang="pa"] { font-family: var(--reader-gm, "Noto Serif Gurmukhi"), "Noto Serif Gurmukhi", serif; font-weight: 600; }
+.op-head-t { font-family: var(--reader-stack, "Lora"), Georgia, serif; font-style: italic; margin-left: .5em; }
 .op-line + .op-line { margin-top: calc(5vh * var(--op-scale)); }
 .op-line p { margin: 0; }
 
