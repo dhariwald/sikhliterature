@@ -1,6 +1,8 @@
 /* Opening slides: the text shown after attendance (Manglacharan, Rahao,
    and the verse of the day). Edit the words here; opening.js does the rest.
-   Each line is { g: Gurmukhi, t: transliteration, e: English }.
+   Order: fixed slides, then the verse of the day, then closing slides.
+   Each line is { g: Gurmukhi, t: transliteration, e: English }; an optional
+   head (e.g. the metre, ਚੌਪਈ) shows small above the verse.
    Words in [square brackets] in the English are shown as faint glosses. */
 window.SIKHLIT_OPENING = {
   "fixed": [
@@ -196,5 +198,39 @@ window.SIKHLIT_OPENING = {
         ]
       }
     ]
-  }
+  },
+  "closing": [
+    {
+      "lines": [
+        {
+          "g": "ਕਹਾ ਬੁੱਧਿ ਪ੍ਰਭ ਤੁੱਛ ਹਮਾਰੀ ॥",
+          "t": "Kahā buddh prabh tuchh hamārī.",
+          "e": "What is my petty intellect, O Lord,"
+        },
+        {
+          "g": "ਬਰਨ ਸਕੈ ਮਹਿਮਾ ਜੁ ਤਿਹਾਰੀ ॥",
+          "t": "Baran sakai mahimā ju tihārī.",
+          "e": "that it could describe your greatness?"
+        },
+        {
+          "g": "ਹਮ ਨ ਸਕਤ ਕਰ ਸਿਫਤ ਤੁਮਾਰੀ ॥",
+          "t": "Ham na sakat kar sifat tumārī.",
+          "e": "I am not able to sing your praise;"
+        },
+        {
+          "g": "ਆਪ ਲੇਹੁ ਤੁਮ ਕਥਾ ਸੁਧਾਰੀ ॥੩॥",
+          "t": "Āp lehu tum kathā sudhārī. ||3||",
+          "e": "you yourself correct this katha [narrative]. (3)"
+        }
+      ],
+      "cite": {
+        "g": "ਸ੍ਰੀ ਬਚਿਤ੍ਰ ਨਾਟਕ, ਦਸਮ ਗ੍ਰੰਥ, ਅੰਗ ੪੭",
+        "e": "Sri Bachittar Natak, Dasam Granth, Ang 47"
+      },
+      "head": {
+        "g": "ਚੌਪਈ ॥",
+        "t": "Chaupaī"
+      }
+    }
+  ]
 };
