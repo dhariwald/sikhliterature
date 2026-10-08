@@ -2,6 +2,14 @@
 
 ## The Yogi Is Taught the Vedanta
 
+>1. If the world is false, why does it appear true to everyone?
+> if the world is true, then why do the spiritually wise call it false?
+>3. If the Atma of everyone is one, then why do we see them as many? 
+>4. If all beings are living [and dieing], then how is Braham unchanging?
+>5. How can Braham be the form of the world and within it, but also not attached to the world at the same time? 
+>6. How can I realize that Braham-Atma inside me?
+
+ 
 ਦੋਹਰਾ *Dohra*
 
 ਸ਼੍ਰੀ ਗੁਰ ਕ੍ਰਿਪਾ ਨਿਧਾਨ ਸੁਨਿ, ਲਖਿ ਕੈ ਸੁਧਿ ਅਧਿਕਾਰ।\
