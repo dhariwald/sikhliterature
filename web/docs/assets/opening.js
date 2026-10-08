@@ -1,5 +1,6 @@
 /* Opening slides for class.
-   Shows the Manglacharan, the Rahao and the verse of the day full screen,
+   Shows the Manglacharan, the Rahao, the verse of the day and the closing
+   Chaupai full screen,
    over whatever reading page is open, then returns to it untouched.
 
    Only appears on a computer that has been switched into classroom mode:
@@ -16,7 +17,8 @@
 
    The verse of the day moves on by one the first time the slides are opened
    on a new date, so every class that day sees the same verse and a day with
-   no class uses nothing up. The small arrows beside "Verse n of 8" correct it.
+   no class uses nothing up. The small arrows beside "Verse n of 8" (on the
+   verse-of-the-day slide) correct it.
    Text lives in opening-text.js. */
 (function () {
   'use strict';
@@ -72,12 +74,23 @@
   }
   function slideHtml(slide, cite, extra) {
     var h = '<div class="op-text">';
-    slide.lines.forEach(function (l) {
-      h += '<div class="op-line">' +
-        '<p class="op-g" lang="pa">' + esc(l.g) + '</p>' +
-        '<p class="op-t">' + esc(l.t) + '</p>' +
-        '<p class="op-e">' + english(l.e) + '</p></div>';
-    });
+    if (slide.head) {
+      h += '<p class="op-head"><span lang="pa">' + esc(slide.head.g) + '</span>' +
+        (slide.head.t ? ' <span class="op-head-t">' + esc(slide.head.t) + '</span>' : '') + '</p>';
+    }
+    if (slide.layout === 'blocks') {
+      /* All the Gurmukhi, then all the transliteration, then all the English. */
+      h += '<div class="op-block">' + slide.lines.map(function (l) { return '<p class="op-g" lang="pa">' + esc(l.g) + '</p>'; }).join('') + '</div>';
+      h += '<div class="op-block">' + slide.lines.map(function (l) { return '<p class="op-t">' + esc(l.t) + '</p>'; }).join('') + '</div>';
+      h += '<div class="op-block">' + slide.lines.map(function (l) { return '<p class="op-e">' + english(l.e) + '</p>'; }).join('') + '</div>';
+    } else {
+      slide.lines.forEach(function (l) {
+        h += '<div class="op-line">' +
+          '<p class="op-g" lang="pa">' + esc(l.g) + '</p>' +
+          '<p class="op-t">' + esc(l.t) + '</p>' +
+          '<p class="op-e">' + english(l.e) + '</p></div>';
+      });
+    }
     h += '</div><div class="op-cite"><span lang="pa">' + esc(cite.g) + '</span><span>' + esc(cite.e) + '</span></div>';
     return h + (extra || '');
   }
@@ -92,6 +105,7 @@
       '<button type="button" data-op="vnext" aria-label="Next verse">&#8250;</button></div>';
     return slideHtml(T.rotating.verses[i], T.rotating.cite, tune);
   });
+  (T.closing || []).forEach(function (s) { slides.push(function () { return slideHtml(s, s.cite); }); });
 
   /* ---- overlay */
   var ov, stage, count, at = 0, open = false, verseIndex = 0;
