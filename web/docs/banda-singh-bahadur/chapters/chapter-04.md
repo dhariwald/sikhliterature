@@ -2,6 +2,13 @@
 
 *From Ganda Singh, **Life of Banda Singh Bahadur** (Amritsar: Khalsa College, 1935), pp. 35–49.*
 
+>**Questions**
+>
+>1. Banda's first attack, and its result
+>2. Why Samana was hated
+>5. Why Banda attacked Kapuri
+>6. Crimes of Osman Khan (Sadhaura)
+
 In a few months Banda Singh found himself at the head of a considerable number of crusaders, eager 'to win the crown of victory or to drink the cup of martyrdom.' Ali Singh and Mali Singh, who had joined his camp with some more Sikhs after their escape from the prison of Sirhind, represented to him, one day, that he should hasten his operations, as all those Sikhs who could be expected to join him had already done so. Banda Singh replied that he was waiting for some who had been specially summoned, and who were coming from great distances.
 
 At last it was decided to commence the operations, and, with five hundred of his followers, he marched upon the town of Sonepat.[^1]
