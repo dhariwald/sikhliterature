@@ -63,3 +63,10 @@ texts:
     unit: Chapter
     divisions:
       - {slug: volume-5, title: "Volume 5", from: 1, to: 33, guru: "Sri Guru Gobind Singh Ji"}
+
+  - slug: short-history-of-the-sikhs
+    title: A Short History of the Sikhs
+    subtitle: Volume One (1469–1765), Teja Singh and Ganda Singh, 1950
+    unit: Part
+    divisions:
+      - {slug: volume-1, title: "Volume 1 (1469–1765)", from: 1, to: 3}
