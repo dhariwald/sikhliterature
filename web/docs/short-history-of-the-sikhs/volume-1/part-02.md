@@ -37,21 +37,35 @@ Baj Singh, a companion and counsellor of Banda, was appointed governor of Sarhin
 Strange conversions were noticed as a result of Banda Singh's overbearing influence. 'The authority of that deluded sect [of the Sikhs] has reached such extremes', wrote Amin-ud-Daula in June 1710, 'that many Hindus and Mohammedans, finding no alternative to obedience and submission, adopted their faith and ritual. Their chief [Banda Singh] captivated the hearts of all towards his inclinations and, whether a Hindu or a Mohammedan, whoever came in contact with him, was addressed as a *Singh*. Accordingly Dindar Khan, a powerful ruler of the neighbourhood, was named Dindar Singh, and Mir Nasir-ud-Din, the official reporter of Sarhind, became Mir Nasir Singh. In the same way, a large number of Mohammedans abandoned Islam and followed the misguided path [of Sikhism] and took solemn oaths and firm pledges to stand by Banda.'[^14]
 
 Banda fixed upon Mukhlispur, a pleasant hilly place near Sadhaura, as his headquarters, and repairing its old neglected fort, renamed it Lohgarh, or Iron Castle. He assumed royal authority, and struck coins in the name of the Guru. They bore the following inscription on one side:
-
-> سکہ زد بر ہر دو عالم تیغ نانک واہب است
+> سکہ زد بر ہر دو عالم تیغ نانک واہب است\
 > فتح گوبند سنگھ شاہ شاہان فضل سچا صاحب است
+>
+> *Sikka zad bar har do ʿālam, tegh-i Nānak wāhib ast,*\
+> *fatḥ-i Gobind Singh, shāh-i shāhān, fazl-i Sachchā Ṣāḥib ast.*
+>
+> ਸਿੱਕਾ ਜ਼ਦ ਬਰ ਹਰ ਦੋ ਆਲਮ, ਤੇਗ਼-ਏ ਨਾਨਕ ਵਾਹਿਬ ਅਸਤ,\
+> ਫ਼ਤਹ-ਏ ਗੋਬਿੰਦ ਸਿੰਘ, ਸ਼ਾਹ-ਏ ਸ਼ਾਹਾਂ, ਫ਼ਜ਼ਲ-ਏ ਸੱਚਾ ਸਾਹਿਬ ਅਸਤ।
 >
 > (By the grace of the True Lord is struck the coin in the two worlds: The sword of Nanak is the granter of all boons, and the victory is of Guru Gobind Singh, the king of kings.)
 
 The reverse had the following words in praise of his newly-founded capital:
-
 > ضرب بہ امان الدہر مصورت شہر زینت التخت مبارک بخت
+>
+> *Ẓarb ba-amān ud-dahr, maṣwarat shahr, zīnat ut-takht-i mubārak bakht.*
+>
+> ਜ਼ਰਬ ਬ-ਅਮਾਨ-ਉਦ-ਦਹਰ, ਮਸਵਰਤ ਸ਼ਹਰ, ਜ਼ੀਨਤ-ਉਤ-ਤਖ਼ਤ-ਏ ਮੁਬਾਰਕ ਬਖ਼ਤ।
 >
 > (Struck in the City of Peace, illustrating the beauty of civic life, and the ornament of the blessed throne.)
 
 **[p. 85]** He also introduced an official seal for his state documents and letters patent. It contained the following inscription expressive of his deep sense of devotion and loyalty to his master:
-
-> دیگ و تیغ و فتح و نصرت بیدرنگ یافت از نانک گرو گوبند سنگھ
+> دیگ و تیغ و فتح و نصرت بیدرنگ\
+> یافت از نانک گرو گوبند سنگھ
+>
+> *Deg o tegh o fatḥ o nuṣrat-i bedirang*\
+> *yāft az Nānak Guru Gobind Singh.*
+>
+> ਦੇਗ ਓ ਤੇਗ਼ ਓ ਫ਼ਤਹ ਓ ਨੁਸਰਤ-ਏ ਬੇਦਿਰੰਗ\
+> ਯਾਫ਼ਤ ਅਜ਼ ਨਾਨਕ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ।
 >
 > (The Kettle and the Sword (symbols of Charity and Power), Victory and ready Patronage have been obtained from Guru Nanak–Gobind Singh.)
 
@@ -99,9 +113,10 @@ The place was taken next morning by the Mughal commander, Munim Khan, but to his
 
 Within a fortnight of his escape, Banda issued circular letters, called *Hukamnamas*, to the Sikhs of various places, calling upon them to join him at once. One such letter, dated Poh 12, Sammat 1 (12th Dec. 1710), addressed to the Sikhs of Jaunpur, reads thus:
 
-> *Seal:* Dēg o tēgh o fateh o nusrat bēdirang /
-> Yāft az Nānak Guru Gobind Singh[^31]
->
+> *Seal:* دیگ و تیغ و فتح و نصرت بیدرنگ / یافت از نانک گرو گوبند سنگھ\
+> Dēg o tēgh o fateh o nusrat bēdirang /\
+> Yāft az Nānak Guru Gobind Singh[^31]\
+> 
 > **[p. 92]** *One God! Victory to the Presence.*[^32]
 >
 > This is the order of *Sri Sachcha Sahib*[^33] (the real Great Master) to the entire Khalsa of Jaunpur. The Guru will protect you. Call upon the Guru's name. Your lives will be fruitful. You are the Khalsa of the great immortal God. On seeing this letter, repair to the presence, wearing five arms. Observe the rules of conduct laid down for the Khalsa. Do not use bhang, tobacco, poppy, wine, or any other intoxicant. Do not eat meat, fish or onion.[^34] Commit no theft or adultery. We have brought about the Golden Age (*satya yuga*). Love one another. This is my wish. He who lives according to the rules of the Khalsa shall be saved by the Guru.
