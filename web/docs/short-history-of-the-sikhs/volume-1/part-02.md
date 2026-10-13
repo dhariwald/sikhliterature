@@ -7,8 +7,14 @@
 **[p. 78]**
 
 ## 1. Events leading up to Sarhind
+>**Questions**
+>1. Name the 2 emblems the Guru gave Banda
+>3. Why Samana was attacked
+>4. Usman Khan's crime against Budhu Shah
+>5. Name the 3 classes in Banda's army
+>6. Who killed Wazir Khan?
 
-After the death of Guru Gobind Singh, the tenth and the last Guru, the political leadership of the Sikhs came into the hands of Banda Singh,[^1] whom the Guru had converted to his faith and baptised as a regular Sikh. The Guru had sent him to the Panjab to continue the struggle with the Mughal rulers. He had given him a drum and a banner as emblems of temporal authority, and had bestowed on him five arrows from his own quiver as a pledge of victory. At parting he had enjoined on him to remain pure in conduct and never to touch another man's wife; to be true in word and deed; to look upon himself as a servant **[p. 79]** of the Khalsa who would be the Guru in future; and to act always upon the advice of the five Sikhs (Baj Singh, Binod Singh, Kahan Singh, etc.) sent along with him.
+After the death of Guru Gobind Singh, the tenth and the last Guru, the political leadership of the Sikhs came into the hands of Banda Singh,[^1] whom the Guru had converted to his faith and baptised as a regular Sikh. The Guru had sent him to the Panjab to continue the struggle with the Mughal rulers. He had given him a drum [nagara] and a banner [nishan] as emblems of temporal authority, and had bestowed on him five arrows from his own quiver as a pledge of victory. At parting he had enjoined on him to remain pure in conduct and never to touch another man's wife; to be true in word and deed; to look upon himself as a servant **[p. 79]** of the Khalsa who would be the Guru in future; and to act always upon the advice of the five Sikhs (Baj Singh, Binod Singh, Kahan Singh, etc.) sent along with him.
 
 Thus raised to the position of the commander of the Khalsa, Banda proceeded to the north, and from the neighbourhood of Sehri and Khanda, in the Pargana of Kharkhauda, he despatched the *hukamnamas* of Guru Gobind Singh to the leading Sikhs in the Panjab, calling upon them to join him. He told them that he was coming to punish Wazir Khan, the Faujdar of Sarhind, and his Hindu assistant, Sucha Nand, for having killed the Guru's young sons. He would also chastise the Hill rajas who had ill-treated the Guru. The Sikhs flocked to his banner from all quarters. Bhai Fateh Singh, a descendant of Bhai Bhagtu, Karam Singh and Dharam Singh of Bhai Rupa, and Nagahia Singh and Chuhar Singh were among the first who joined him with men and money. Ali Singh and Mali Singh, with other Sikhs of Salaudi, were the next to follow. Chaudhris Ram Singh and Tilok Singh, of the Phulkian family, liberally contributed to his resources, and in a few months the whole Sikh peasantry was up in arms to wreak their vengeance upon Sarhind.
 
@@ -27,6 +33,14 @@ There were three classes of men who joined Banda Singh in this campaign. Firstly
 The battle was fought on the plain of Chappar-Chiri on 12th May, 1710. In the first shock of battle the booty-loving irregulars in the ranks of Banda took to their heels. They were followed by a thousand men who had been smuggled in[^5] by a nephew of Sucha Nand, the notorious Hindu Diwan of Sarhind. To stem the tide of desertion Banda Singh himself rushed to the front of his army and **[p. 82]** boldly led them on to the attack. "The Sikhs," says the author of the *Ahwal-i-Salatin-i-Hind*, "came face to face with the Mohammedans, rapidly discharged their muskets, and reduced the battle to a hand-to-hand fight. The commander of the Mohammedans [Wazir Khan] and some of his men fought so bravely that heaps of the bodies of the infidels [Sikhs] fell to the ground, piled one upon another, and there was din on all sides like that of Doomsday. At last the whole Mohammedan army was destroyed. Wazir Khan then came face to face with Baj Singh, shouting 'be careful, you dirty dog', and rushed upon him with a lance. Baj Singh snatched the weapon from Wazir Khan and struck it on the head of his horse and wounded it. After a while, Wazir Khan pulled out an arrow from his quiver and thrust it at the arm of Baj Singh. Then drawing his sword he sprang forward to make an end of him. Fateh Singh, who was standing nearby, took out his sword and struck Wazir Khan with it so strongly that it passed through his shoulder down to his waist and his head fell to the ground."[^6] Confusion spread in the Mohammedan ranks, and the Sikhs fiercely fell upon them. "Not a man of the army of Islam," says Khafi Khan, "escaped with more than his life and the clothes he stood in. Horsemen and footmen fell under the swords of the infidels [Sikhs], who pursued them as far as Sarhind."[^7]
 
 Sarhind itself, which was about ten miles from the scene of battle, was taken two days later after a short but sharp struggle, in which five hundred Sikhs lost their lives. The city was ransacked, and only those Mohammedans who had either fled away or had hidden themselves in disguise in the houses of Hindus escaped injury. Some Hindus too, like Sucha Nand,[^8] who had made themselves particularly obnoxious to the Sikhs for their complicity in the crimes of Wazir Khan, came in for their share in the punishment. The booty that fell into the hands of the Sikhs is estimated at two crores, in money and goods, belonging to Wazir Khan, and some lakhs found in the deserted houses of Sucha Nand and others.[^9]
+
+>**Questions**
+>1. Grave dug up at Malerkotla, and why
+>2. New governor of Sarhind
+>3. Banda's new capital, and its meaning
+>4. Describe the system Banda abolished, and what he did.
+>6. Jalal Khan's treatment of the Sikh messengers
+>8. Sikhs' trick at Rahon
 
 **[p. 83]** 'The *Siyarul Mutaakhirin* [as well as the *Muntakhib-ul-Lubab*] contains terrible details of atrocious deeds of the Sikhs,' writes Thornton, 'but a Mohammedan writer is not to be implicitly trusted upon such a point.'[^10] Very fruitful imagination seems to have been at work in ascribing every kind of cruelty to the Sikhs. They are said to have desecrated mosques and 'torn open the wombs of pregnant women, dashing every living child upon the ground.'[^11] Such statements are blindly repeated by later writers like Mohammed Latif. 'The Mausoleum of Ahmed Shah [Sheikh Ahmed Mujaddid Alif Sani], the most magnificent of such buildings', says Narang, 'still stands as it did before the battle, and is, I think, sufficient evidence of the exaggeration in Latif's statement.'[^12] There is no particular instance given of any such outrage. Only the Sikh chronicles mention the digging up of the grave—and that too for the performance of the last rites—of Bibi Anup Kaur, a Sikh woman, who had been carried away by Sher Mohammed Khan[^13] and buried in a grave at Malerkotla, after she had committed suicide to save her honour.
 
@@ -92,6 +106,13 @@ Seeing the larger forces of the enemy, the Sikhs retired to Rahon, which is abou
 **[p. 89]**
 
 ## 5. Haidri Flag Crusade[^22]
+>**Questions**
+>1. What was the Haidri Flag?
+>2. Where the crusade ended, and how
+>3. Emperor's order on beards, and why
+>4. Who sat in Banda's place at Lohgarh?
+>6. Hukamnama: how must Sikhs come?
+>8. Banda's settlement in the Jammu hills
 
 The tracts of Majha and Riarki, forming the central Panjab, were delivered at the same time. Here too the Sikh rising was so general that the local officials, not feeling equal to the task, had to resort to a religious crusade against the insurgents. 'The entire Khalsa from the Majha and other areas, numbering about eight thousand, assembled at Amritsar, and having conferred together overran the territories of the Panjab.'[^23] Leaving the strong parganas of Lahore and Qasur for the present, they turned their attention to Batala and Kalanaur first, and turning out the government officials established their own *thanas* and *tehsils*. Some of the Sikh leaders, particularly those of Sitthala and Butala, moved on further north and occupied the pargana of Pathankot.[^24]
 
