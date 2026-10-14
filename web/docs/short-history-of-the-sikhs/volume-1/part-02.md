@@ -107,18 +107,18 @@ Seeing the larger forces of the enemy, the Sikhs retired to Rahon, which is abou
 
 ## 5. Haidri Flag Crusade[^22]
 >**Questions**
->1. What was the Haidri Flag?
->2. Where the crusade ended, and how
->3. Emperor's order on beards, and why
->4. Who sat in Banda's place at Lohgarh?
->6. Hukamnama: how must Sikhs come?
->8. Banda's settlement in the Jammu hills
+>1. What was the Haidri Flag crusade?
+>2. How did it end?
+
 
 The tracts of Majha and Riarki, forming the central Panjab, were delivered at the same time. Here too the Sikh rising was so general that the local officials, not feeling equal to the task, had to resort to a religious crusade against the insurgents. 'The entire Khalsa from the Majha and other areas, numbering about eight thousand, assembled at Amritsar, and having conferred together overran the territories of the Panjab.'[^23] Leaving the strong parganas of Lahore and Qasur for the present, they turned their attention to Batala and Kalanaur first, and turning out the government officials established their own *thanas* and *tehsils*. Some of the Sikh leaders, particularly those of Sitthala and Butala, moved on further north and occupied the pargana of Pathankot.[^24]
 
 The main body of the Sikhs carried their arms to the very walls of Lahore. Sayyed Aslam Khan, the Governor of Lahore, was seized with terror and dared not move out to meet them. The Mullas, therefore, took up the lead. They raised a green banner, called the Haidri Flag, and proclaimed a *jehad* or crusade against the Sikhs. So fervent was the appeal made to the Muslim sentiment that many wealthy traders and high-placed men sold off their belongings and made large contributions to the funds of the expedition. Some Hindu officials too joined them. The Sikhs had stationed themselves in the fort of Bhagwant Rai at the village named Bharat near Lahore. After suffering a close siege, in which they put up a bold defence, they sallied forth one night and broke through the enemy's lines. Sadly disappointed at this discomfiture, the Ghazis returned to Lahore and in chagrin insulted the Hindus of the city and threatened their own rulers.[^25] Another force sent out against the Sikhs, lying near Kotla Begum, met the same fate. The **[p. 90]** final battle of this campaign was fought at Bhilowal, where the Sikhs fell upon the unsuspecting *Ghazis* returning to Lahore, and inflicted a heavy defeat on them. By this the whole territory of Majha and Riarki became a Sikh possession.[^26]
 
 ## 6. Clash with Royal Forces
+>**Questions**
+>1. What orders did the Emperor Bahadur Shah give?\
+>2. How did Banda escape from Lohgarh?\
 
 The Sikhs were now masters of the Punjab east of Lahore. According to Iradat Khan, 'there was no nobleman daring enough to march from Delhi against them.' 'If Bahadur Shah had not quitted the Deccan, which he did in 1710, there is every reason to think,' says Malcolm, 'the whole of Hindustan would have been subdued by these . . . invaders.'[^27]
 
@@ -131,6 +131,9 @@ This hilly retreat of Banda's forces was closely invested by over sixty thousand
 The place was taken next morning by the Mughal commander, Munim Khan, but to his disappointment 'the hawk had flown', leaving only a substitute, in the person of Gulab Singh, and a few dead and dying. The Emperor's displeasure knew no bounds. He ordered one of his nobles, Hamid Khan, to pursue the escaped chief into the hills, and to bring him alive if possible; if not, then the *Barfi Raja* (Ice King) of Nahan was to be hauled up. As Banda Singh had escaped beyond the reach of his pursuers, Raja Bhup Prakash of Nahan was made prisoner, and was carried, along with Gulab Singh, in an iron cage to Delhi.
 
 ## 7. Banda in the Hills
+>**Questions**
+>1. What did Banda's hukamnama tell the Sikhs to do?
+>2. How did the hill rajas respond to Banda?
 
 Within a fortnight of his escape, Banda issued circular letters, called *Hukamnamas*, to the Sikhs of various places, calling upon them to join him at once. One such letter, dated Poh 12, Sammat 1 (12th Dec. 1710), addressed to the Sikhs of Jaunpur, reads thus:
 
@@ -153,6 +156,11 @@ Bahadur Shah was succeeded by his effeminate son, Jahandar Shah, who was soon ou
 The period of internecine struggles offered a favourable opportunity to Banda to re-establish his power and recapture the lost territories. He shot across the Punjab with the speed of a meteor, and took Sadhaura and Lohgarh, which once again became the capital of the Sikh power. Farrukh Siyar appointed Abdus Samad Khan as Governor of Lahore and his son, Zakrya Khan, as Faujdar of Jammu, with orders to expel Banda from his positions. The Sikhs were obliged to evacuate Sadhaura and Lohgarh in October 1713, **[p. 94]** and Banda took refuge in the Jammu hills, where he married a second time and made a settlement of his own, now called *Dera Baba Banda Singh*.[^40] Abdus Samad Khan and his son received honours from the Emperor on their initial victories over the Sikhs, who began again to be hunted down everywhere, especially by the *Pathans* of the Gurdaspur region.
 
 ## 8. Last Stand at Gurdas-Nangal
+>**Questions*
+>1. Where did Banda make his last stand?
+>2. Why did Binod Singh leave Banda?
+>3. How did the Sikhs survive starvation?
+>4. How did the siege end?
 
 In the beginning of 1715 Banda Singh reappeared in the plains. He marched towards Kalanaur and Batala, which he took after some hard fighting, and placed them in the hands of Sikh officials. This roused the ire of Farrukh Siyar who sharply rebuked Abdus Samad Khan, the Governor of Lahore, for his negligence. Orders were issued to a number of Mughal and Hindu officials and chiefs to proceed with their troops to reinforce the armies of Lahore. These were further supported by the Katauch Raja of Kangra and Har Dev, son of Raja Dhruv Dev of Jasrota. Before Banda could dig in at some safe place to receive the combined onslaught, the forces of Samad Khan were on him. He, however, stood his ground very well to the amazement of all, and in the first encounter fought so heroically that, according to *Siyar-ul-Mutaakhirin*, he was very near giving a complete defeat to the Imperial general. But in the absence of a strong position for defence, he was obliged to retreat and was brought to bay at the village of Gurdas-Nangal,[^41] about four miles to the west of Gurdaspur. He put his men in the *ihata* or enclosure of Bhai Duni Chand, and threw up improvised defences around it. A moat was dug and filled with water from a neighbouring canal, and an artificial quagmire was created about it to keep off the enemy. Here the Sikhs sat down to stand the siege, which became so close that not a blade of grass, or a grain of corn, could find its way in. Mohammed Qasim, the author of the *Ibratnama*, who was an eye-**[p. 95]**witness of these operations, writes: 'The brave and daring deeds of the infernal Sikhs were amazing. Twice or thrice a day some forty or fifty of these blackguards would come out of their enclosure to gather grass for their animals, and when the combined forces of the Imperialists went to oppose them, they made an end of the Mughals with arrows, muskets and small swords and disappeared. Such was the terror of these people and the fear of the sorceries of their chief that the commanders of the royal army prayed that God might so ordain things that Banda should seek his safety in flight from the *garhi*.'[^42]
 
@@ -161,6 +169,13 @@ The besiegers could do nothing but to draw the siege closer, so as to starve out
 The difference was overcome, but the situation remained as desperate as ever. In the absence of grain, flesh of horses, asses and other animals were used as food. 'Also as the Sikhs were not strict observers of caste', says Irvine on the authority of Khafi Khan, 'they slaughtered oxen and other animals, and not having any firewood ate the flesh raw. Many died of dysentery and privation. . . . When all the grass was gone, they gathered leaves from trees. When these were consumed, they stripped the bark and broke off the small shoots, dried them, ground them down, and used them instead of flour, thus keeping body and soul together. They also collected the bones of animals and used them in the same way. Some assert that they saw a few of the Sikhs cut flesh from their own thighs, roast it, **[p. 96]** and eat it.'[^44] 'In spite of all this,' says Kamwar Khan, 'the infernal Sikh chief and his men withstood all the military force that the great Mughal Empire could muster against them for eight long months.'[^45] But how long could this continue? About eight thousand had died, and the remaining were reduced to mere skeletons. No resistance, in such conditions, was possible. The *garhi* was entered by the Imperialists on December 7, 1715, and Banda and his famished followers were taken prisoners. Some two or three hundred of them were bound hand-and-foot and made over to the Mughal and Tartar soldiery, who put them to the sword and filled that extensive plain with blood as if it had been a dish. The dead bodies of the Sikhs were ripped open in search of gold coins, which were supposed to have been swallowed by them, and their heads were stuffed with hay and mounted on spears.[^46]
 
 ## 9. Executions at Delhi
+>**Questions**
+>1. How were the prisoners paraded through Delhi?
+>2. How did the prisoners answer the mocking crowds?
+>3. What were the prisoners offered before execution?
+>4. What did the young boy choose, and why?
+>5. What was Banda asked to do to his son?
+>6. Banda's reply to Mohammed Amin Khan?
 
 From Gurdas-Nangal Abdus Samad Khan took Banda and his companions to Lahore,[^47] where they were ignominiously paraded in the streets, and then despatched to Delhi. Although Banda was a prisoner, living at the mercy of his captors, yet so great was the dread of his occult powers that it was feared that he might fly away from their hands. He was bound in chains in four places and kept in a cage. A Mughal officer was tied to him on the same elephant with orders to plunge his dagger into him if he tried to escape. His companions, about 200 in all, were also in chains. Zakrya Khan, Abdus Samad Khan's son, who was in charge of the show, thought that the number of prisoners was too small to be presented to the Emperor. So he roped[^48] in a few thousand more from villages on the way, until the number of the prisoners amounted to 740, and that of the heads hoisted on spears to 2000. Besides these seven hundred cart-loads of heads also accompanied the gruesome show!
 
