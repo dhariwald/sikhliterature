@@ -2,6 +2,15 @@
 
 *From Max Arthur Macauliffe, **The Sikh Religion: Its Gurus, Sacred Writings and Authors**, Vol. V (Oxford: Clarendon Press, 1909), Life of Guru Gobind Singh, pp. 33–45.*
 
+>**Questions**
+>1. Bhikan Khan's claim about the Guru's army?
+>2. What did the Udasis do?
+>3. Who arrived to help the Guru?
+>4. Who shot Budhu Shah's son?
+>5. Ram Singh made what?
+>6. Lal Chand the confectioner killed whom?
+>7. Sango Shah's new name?
+
 When the Pathans joined Raja Fatah Shah, he asked them what the Guru, whose pay they had been receiving and whose salt they had been eating, must think of them after their desertion. Bhikan Khan replied, 'Great king, the Guru is greatly afraid of thee. He only declared war on thee through reliance on us. He offered us shields full of rupees, but we refused and came to thee. He hath only eight men who know how to fight. These are his five cousins, his uncle Kripal, Diwan Nand Chand, and Bhai Daya Ram. The others who are with him are the dregs of the populace, and know not even how to handle a sword. We Pathans shall be too many for them, so it will not be necessary for thy troops to engage at all. The Guru hath treasure exceeding that of an emperor.' On this Fatah Shah remarked that Providence was kind to him in having already granted him victory. He repeated his promise to the Pathans that they might go and plunder the Guru, and, if he himself possibly could, he would generously reward them out of his own resources also.
 
 The Guru's scouts, who had been sent to Bhangani, reported that the enemy were marching to the attack. He must therefore proceed at once to intercept them, otherwise they would enter Paunta on the morrow. The Guru sent orders to a body of Udasis to put on their turbans, take their arms, and prepare for defence. The Udasis too did not wish to lose their lives. They said that there were other countries where they might beg for their living, and that the Guru's kitchen from which they used to eat, was not the only one in the world which remained to them. It was not for the purpose of fighting they had left their homes and become pilgrims. They accordingly resolved to abscond during the night one by one, so that their departure might be unobserved.
