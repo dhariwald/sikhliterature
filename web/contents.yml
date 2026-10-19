@@ -48,6 +48,7 @@ texts:
     divisions:
       - {slug: chapter-6, title: "Chapter 6", from: 1, to: 64}
       - {slug: chapter-7, title: "Chapter 7", from: 1, to: 23}
+      - {slug: chapter-2, title: "Chapter 2", from: 1, to: 12, guru: "Sri Guru Nanak Dev Ji"}
 
   - slug: banda-singh-bahadur
     title: Life of Banda Singh Bahadur
