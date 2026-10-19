@@ -79,4 +79,10 @@ texts:
     divisions:
       - {slug: chapters, title: "Chapters", from: 1, to: 14}
 
+  - slug: dussehra-mahatam
+    title: Sri Dussehra Mahatam
+    subtitle: Bani read during Shastar Puja, Takht Sri Hazur Sahib pothi
+    unit: Part
+    divisions:
+      - {slug: pothi, title: "Days 1–9", from: 1, to: 1}
   
