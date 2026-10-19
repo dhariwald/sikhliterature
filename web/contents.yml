@@ -71,3 +71,12 @@ texts:
     unit: Part
     divisions:
       - {slug: volume-1, title: "Volume 1 (1469–1765)", from: 1, to: 3}
+      
+  - slug: bachittar-natak
+    title: Sri Bachittar Natak
+    subtitle: Sri Dasam Granth, Sri Guru Gobind Singh Ji
+    unit: Chapter
+    divisions:
+      - {slug: chapters, title: "Chapters", from: 1, to: 14}
+
+  
