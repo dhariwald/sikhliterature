@@ -5,8 +5,8 @@
 >**Questions**
 >
 >1. Why young Boora feared death?
->2. Why called Budha?
->3. Meditation mode advised to Budha?
+>2. Why was he called "Buddha"?
+>3. Meditation mode advised to Bhai Buddha?
 
 *From Bhai Mani Singh, **Sikhan Di Bhagat Mala**, translated by G.S. Chauhan as **The Gospel of the Sikh Gurus** (2nd ed., 2009), Chapter 2: The Disciples of Sri Guru Nanak Dev, pp. 35–36.*
 
