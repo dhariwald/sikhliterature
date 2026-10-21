@@ -2,6 +2,13 @@
 
 *From Max Arthur Macauliffe, **The Sikh Religion: Its Gurus, Sacred Writings and Authors**, Vol. V (Oxford: Clarendon Press, 1909), Life of Guru Gobind Singh, pp. 45–51.*
 
+>**Questions**
+>
+>1. Budhu Shah's keepsake from the Guru?
+>2. Why did the Raja of Nahan avoid the Guru?
+>5. Bhim Chand's request to the Guru?
+>6. Name of the Guru's son born?
+
 After the battle the Guru went to where lay the bodies of Sango Shah, Jit Mal, and his other brave fallen Sikhs. He ordered the slain on both sides to be disposed of. The bodies of the Sikhs were cremated, of the Hindus thrown into the adjacent river, and of the Musalmans buried with all solemnity. Bards assembled and chanted their praises.
 
 Saiyid Budhu Shah presented himself and his two surviving sons to the Guru. The Guru said, 'I hail thee as a true priest of God. Thy human life is profitable unto thee. Deem not that thy sons are dead. Nay, they shall live for ever. Only those die who despise God's name and turn cowards on the field of battle.' Budhu Shah replied, 'True king, I mourn not for my sons who are slain, because, in the first place, they have gone to enjoy seats in paradise, and, secondly, because they have lost their lives in defence of thee. Such a boon is not obtained even by the greatest austerities.'
