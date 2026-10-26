@@ -9,7 +9,6 @@
 >**Questions**
 >
 >1. Into how many parts is 1716–1765 divided?
->2. Who restored peace in 1721?
 
 The history of the Sikhs from the fall of Banda to the establishment of the Sikh state in 1765 is a record of the titanic struggle between the Khalsa on the one hand and the Mughals and the Durranis on the other, in which the sons of the soil had not only to fight for their lives, but were able, after long and determined suffering, to assert their superior right to rule over their own land. This period of half a century may be divided into four parts:
 
@@ -22,9 +21,7 @@ The history of the Sikhs from the fall of Banda to the establishment of the Sikh
 
 >**Questions**
 >
->1. Farrukh Siyar's edict against Sikhs?
->2. Define: Sahjdharis
->3. Who was to administer the Granth?
+>1. Farrukh Siyar's edict against Sikhs
 
 After the defeat and death of Banda every measure was taken that an active resentment could suggest, not only to destroy the power of the Sikhs, but to extirpate the community as a whole. An edict[^1] **[p. 106]** was issued by Farrukh Siyar directing that any Sikh falling into the hands of his officers should, on a refusal to embrace the Mohammedan faith, be put to the sword. A reward was also offered for the head of every Sikh. Such was the keen spirit animating the persecutors, such the success of their exertions, that for a time it appeared as if the boast of Farrukh Siyar to wipe out the name of Sikhs from the land was going to be fulfilled. Hundreds of them were brought in from their villages and executed, and thousands who had joined merely for the sake of booty cut off their hair and went back to the Hindu fold again. Besides these there were some Sikhs who had not yet received the baptism of Guru Gobind Singh, nor did they feel encouraged to do so, as the adoption of the outward symbols meant courting death. Those, therefore, who believed in Sikhism but had not the courage to die for it went about without long hair. They were called *Khulasas* or irregulars—now known as *Sahjdharis* or slow-adopters. They believed in the same principles as the regular Sikhs, whom they helped with money and provisions in times of need, and whom they would join as baptised brethren as soon as they found themselves ready for sacrifice. The genuine Sikhs sought shelter in hills and forests, and for some time disappeared from the scene.
 
