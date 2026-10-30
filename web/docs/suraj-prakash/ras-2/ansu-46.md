@@ -3,9 +3,9 @@
 ## Bhai Bahilo
 
 >**Questions**
->3. Bahilo's reply to the hukamnama?
->4. Why Bahilo belonged to the Guru's house?
->5. What Bahilo asked the Guru for?
+>1. Bahilo's reply to the hukamnama?
+>2. Why Bahilo belonged to the Guru's house?
+>3. What Bahilo asked the Guru for?
 
 ਦੋਹਰਾ *Dohra*
 
