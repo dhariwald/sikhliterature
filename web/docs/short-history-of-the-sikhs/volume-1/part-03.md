@@ -8,7 +8,7 @@
 
 >**Questions**
 >
->1. Into how many parts is 1716–1765 divided?
+>1. Key Periods of Sikh History between 1716-1765
 
 The history of the Sikhs from the fall of Banda to the establishment of the Sikh state in 1765 is a record of the titanic struggle between the Khalsa on the one hand and the Mughals and the Durranis on the other, in which the sons of the soil had not only to fight for their lives, but were able, after long and determined suffering, to assert their superior right to rule over their own land. This period of half a century may be divided into four parts:
 
@@ -33,9 +33,9 @@ With the return of Sikhs to the plains their visits to the Gurdwaras increased, 
 
 >**Questions**
 >
->1. Name the 2 things the Guru represented
+>1. 2 Bodies that Represent the Guru
 >2. Define: Gurmata
->3. Name the 2 festivals of the Sarbat Khalsa
+>3. Sarbat Khalsa's 2 Festivals
 
 The essential features of this central authority were that it was to be one and that it was to be exercised impersonally. Even in the time of the Gurus its unity was emphasized by the doctrine that all the Gurus were one[^3] in spirit. But they had different bodies and seemed to receive personal homage. In order to make this homage impersonal, 'the personality of the Guru was detached from the spirit of the Guruship, which was regarded as one, indivisible and continuous.' It was inculcated that the Guru, in essence, represented two things: the Word and the Congregation. A mystic unity was established between the Word and the Guru on the one hand, and the Guru and the Sikhs on the other. Greatest respect began to be paid to the incorporated Word, even the Guru choosing for himself a seat lower than that of the Scripture. The Sikh congregations also acquired great sanctity, owing to the belief that the spirit of the Guru lived and moved among them. They began to assume higher and higher authority, until collectively the whole body, called the *Panth*, came to be regarded as an embodiment of the Guru. Guru Gobind Singh himself received baptism from the Sikhs initiated by him. What the last Guru did was to separate the personal and the scriptural aspects of the Guruship. The one he gave to the Khalsa and the other to the Holy Granth. Both acquired the title of Guru, and were to be addressed as Guru Granth and Guru Panth. In practice the Sikh congregation would sit together, with the Holy Granth in their midst, and deliberating over questions of common interest would give their decisions in the form of resolutions, called *Gurmatas*. All Sikhs were expected to receive them as decisions of the Guru, and any attempt made to contravene them was looked upon as an act of sacrilege. Such meetings of the **[p. 108]** whole people, called the *Sarbat Khalsa*, were to be held twice a year, on the occasions of Dewali (October) and Baisakhi (April).
 
@@ -44,11 +44,9 @@ This was the picture[^4] of the central Sikh authority as visualized by the stau
 ### Other Denominations
 
 >**Questions**
->
->1. Gulab Rai's rite of baptism?
->2. What did Bidhi Chand corrupt?
->3. Why were the Udasis safe?
->4. Why the name Bandeis?
+>1. Who was Baba Handal?
+>3. Define Udasi
+>4. Define: Bandei
 
 One such claimant appeared at Anandpur, where Guru Gobind Singh had left an Udasi saint, Gurbakhsh by name, to look after the shrines there. Gulab Rai,[^5] son of Suraj Mal (a brother of Guru Tegh Bahadur), set himself up as a Guru, and began to baptise Sikhs, called *Gulab Raias*, by the old rite of *charan pahul*, which had been abolished by Guru Gobind Singh. He had gained some importance by the grant of an audience to him, in 1710, by Emperor Bahadur Shah in the neighbourhood of Sarhind. He had purchased some land near about Anandpur, and wanted to add to it by taking possession of the places sacred to the memory of the Gurus. He even sat on the *gaddi* of the Tenth Guru. To this the Udasi saint objected, saying that the places belonged to the fraternity and could not pass into the possession of any individual. The trouble ended with the death of Gulab Rai, whose successors soon after followed him.
 
@@ -71,9 +69,9 @@ The main clash was with those Sikhs who had come to be **[p. 110]** called the *
 >**Questions**
 >
 >1. Whom did Mata Sundari send to Amritsar?
->2. Which slip rose first?
->3. The second test?
->4. How were the Bandeis reclaimed?
+>2. The first test determining the winning faction:
+>3. The second test:
+>4. How were the Bandeis reclaimed into the Khalsa?
 
 The matters came to a head on the occasion of Dewali[^9] in 1720, when both parties mustered strong in the precincts of the Golden Temple and tried to assert their rights by a show of force. Baba Kahan Singh, son of Baba Binod Singh, who had obtained permission from the local authorities for holding the fair, felt responsible for keeping the peace. He and other wise heads appealed to the warring factions not to spoil the sanctity of the place but to postpone the settlement of their differences to some other occasion.
 
