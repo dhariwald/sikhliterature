@@ -1,12 +1,12 @@
 # Ras 2, Ansu 48
 
-## "Buddhu's Kiln Is Raw": Bhai Lakkhu
+## "Buddhu's aava Is Raw": Bhai Lakkhu
 
 >**Questions**
 >
->1. How Buddhu paid for the kiln?
+>1. How Buddhu paid for the aava?
 >2. Buddhu's request of the Guru?
->3. Why Lakkhu cursed the kiln?
+>3. Why Lakkhu cursed the aava?
 >4. Whose words the Guru cannot undo?
 >5. How the raw bricks were sold?
 
@@ -31,7 +31,7 @@ and carried all his affairs through. (2)
 ਲਾਇ ਈਂਟਕਾ ਕੇਰ ਪਜਾਵੈ। ਬੇਚਹਿ ਪੁਰਿ ਮਹਿਂ ਗੁਜ਼ਰ ਚਲਾਵੈ।\
 ਗੁਰੁ ਸਿੱਖਯਨ ਕੋ ਕਰਹਿ ਅਹਾਰਾ। ਪੁਰਹਿ ਭਾਵਨਾ ਰਿਦੇ ਮਝਾਰਾ ॥੩॥
 
-He set up kilns of bricks\
+He set up aavas [clay-firing kilns] of bricks\
 and sold them in the city to make his living.\
 He fed the Guru's Sikhs,\
 and the longings in his heart were fulfilled. (3)
@@ -39,7 +39,7 @@ and the longings in his heart were fulfilled. (3)
 ਏਕ ਬਾਰ ਤਿਨ ਕੀਨ ਪਜਾਵਾ। ਕਈ ਹਜ਼ਾਰ ਦਰਬ ਕੋ ਲਾਵਾ।\
 ਬ੍ਰਿੰਦ ਮਜੂਰ ਕਾਰ ਕੋ ਕਰਿਤੇ। ਈਂਧਨ ਅਧਿਕ ਈਂਟਕਾ ਧਰਿਤੇ ॥੪॥
 
-Once he built a kiln\
+Once he built a aava\
 and put several thousand in money into it.\
 Crowds of labourers did the work,\
 laying in great stores of fuel and bricks. (4)
@@ -56,7 +56,7 @@ and he borrowed it all from a merchant, telling him: (5)
 ਦਰਬ ਉਧਾਰੋ ਲੇ ਕਰਿ ਸੋਈ। ਦੇਤਿ ਮਜੂਰ ਮਜੂਰੀ ਓਈ ॥੬॥
 
 "When the bricks are sold I shall pay you;\
-in a few months this kiln will be fired."\
+in a few months this aava will be fired."\
 With that borrowed money\
 he paid the labourers their wages. (6)
 
@@ -65,7 +65,7 @@ he paid the labourers their wages. (6)
 
 Men by the thousand did the work,\
 and at dusk they were paid the day's wage.\
-In a few months he had made the kiln huge,\
+In a few months he had made the aava huge,\
 and he made up his mind to set it alight. (7)
 
 ਬੁੱਧੂ ਕਰਿ ਬਿਚਾਰ ਉਰ ਨੀਕੇ। -ਪ੍ਰਥਮ ਪੂਜੀਐ ਪਦ ਗੁਰ ਜੀ ਕੇ।\
@@ -95,7 +95,7 @@ like the lord Vishnu in his home in Vaikuntha.[^6] (10)
 ਗਾਇਂ ਰਬਾਬੀ ਰਾਗਨਿ ਚਾਰੂ। ਜਿਨ ਸੁਨਿਬੇ ਫਲ ਪਾਇ ਉਦਾਰੂ।\
 ਧਨ ਕੋ ਢੇਰ ਅਗਾਰੀ ਪਰਯੋ। ਹੋਤਿ ਪ੍ਰਾਤਿ ਤੇ ਜੇਤਿਕ ਚਰਯੋ ॥੧੧॥
 
-The rabābīs[^7] sang beautiful melodies,\
+The rabābīs[^7] sang beautiful raags,\
 and those who heard them won a generous reward.\
 A heap of wealth lay before him,\
 all that had been offered since the morning. (11)
@@ -119,7 +119,7 @@ With great faith he makes a request of you, revered one. (13)
 ਬਹੁ ਧਨ ਸੰਗ ਪਜਾਵਾ ਲਾਇਵ। ਤਿਹਂ ਸਿਧਿ ਹੋਤ ਅਬੈ ਚਲਿ ਆਇਵ।\
 -ਪਾਕਹਿ ਨੀਕੋ- ਬਾਕ ਤੁਮਾਰਾ। ਚਹਤਿ ਕਹਾਯੋ, ਹ੍ਵੈ ਨ ਬਿਗਾਰਾ' ॥੧੪॥
 
-"He has built a kiln with a great deal of money\
+"He has built a aava with a great deal of money\
 and has come now so that it may turn out well.\
 Your word, 'Let it fire well,'\
 is what he wants to hear you say, so that it is not spoiled." (14)
@@ -144,7 +144,7 @@ and then he came back to the great city of Lahore. (16)
 ਕਿਤਿਕ ਦਯੋਸ ਮਹਿਂ ਮੂਹਰੀ ਖੋਲੀ। ਪਾਕੀ ਈਂਟ ਭਈ ਬਹੁ ਮੋਲੀ ॥੧੭॥
 
 Trusting in the Guru's word,\
-he set the kiln alight.\
+he set the aava alight.\
 In a few days he opened its mouth;\
 the bricks had fired and were worth a great deal. (17)
 
@@ -153,7 +153,7 @@ the bricks had fired and were worth a great deal. (17)
 
 *I shall feed the Sikhs;*\
 *I shall bring them to my house and satisfy them well.*\
-*Then I shall sell all the bricks of the kiln*\
+*Then I shall sell all the bricks of the aava*\
 *and pay back the money to the man I always borrow from.* (18)
 
 ਸਦਨ ਜਾਇ ਕੈ ਕੀਨਸਿ ਤਯਾਰੀ। ਭੋਜਨ ਸ੍ਵਾਦਲ ਅਨਿਕ ਪ੍ਰਕਾਰੀ।\
@@ -193,14 +193,14 @@ and one of them stood up and spoke the ardās: (22)
 
 "Sri Satguru! Buddhu, your Sikh,\
 has fed the Sikhs a great deal of food.\
-May his kiln come out right;\
+May his aava come out right;\
 by your mercy may it fire well." (23)
 
 ਸੁਨਿ ਸਿਖ ਲੱਖੂ ਊਚ ਉਬਾਚਾ। 'ਬੁੱਧੂ ਰਹਯੋ ਪਚਾਵਾ ਕਾਚਾ।\
 ਹੇਰਿ ਛੁਧਾਤੁਰ ਦਿਯ ਨ ਅਹਾਰਾ। ਨਹਿਂ ਪਾਕਹਿ, ਭਾ ਦੋਸ਼ ਉਦਾਰਾ' ॥੨੪॥
 
 Hearing this, the Sikh Lakkhu cried out aloud:\
-"Buddhu's kiln has stayed raw!\
+"Buddhu's aava has stayed raw!\
 He saw a man faint with hunger and gave him no food.\
 It will not fire; a great wrong has been done." (24)
 
@@ -210,7 +210,7 @@ It will not fire; a great wrong has been done." (24)
 Hearing this, Buddhu said to Lakkhu:\
 "You must be a very new Sikh.\
 For my work the Guru himself has said,\
-'The kiln shall fire; it shall not stay raw.' (25)
+'The aava shall fire; it shall not stay raw.' (25)
 
 ਐਸੋ ਕੌਨ ਜੁ ਬਾਕ ਮਿਟਾਵੈ। ਗੁਰ ਕੋ ਕਹਯੋ ਸਦਾ ਸਫਲਾਵੈ।\
 ਭੋਜਨ ਸਮੈ ਨ ਪਹੁਂਚਯੋ ਆਪ। ਕ੍ਰੋਧ ਕਰੇ ਹਮ ਦੇਤੋ ਸ੍ਰਾਪ!' ॥੨੬॥
@@ -225,7 +225,7 @@ and in your anger you curse us!" (26)
 
 "We too are great Sikhs of the Guru," Lakkhu answered,\
 "and you did not give us food to satisfy us.\
-Know that the kiln shall stay raw."\
+Know that the aava shall stay raw."\
 With that the Sikh went away. (27)
 
 ਦਿਵਸ ਆਗਲੇ ਬੁੱਧੂ ਗਯੋ। ਜਾਇ ਈਂਟਕਾ ਦੇਖਤਿ ਭਯੋ।\
@@ -233,7 +233,7 @@ With that the Sikh went away. (27)
 
 The next day Buddhu went\
 and looked at the bricks.\
-Every one he took out came out yellow;\
+Every one he took out came out raw yellow;\
 not one could be seen fired red. (28)
 
 ਚੱਕ੍ਰਿਤ ਚਿਤ ਤੂਸ਼ਨਿ ਕਰਿ ਖਰਯੋ। ਮੂਲ ਨਫਾ ਸਭਿ ਘਾਟਾ ਪਰਯੋ।\
@@ -263,7 +263,7 @@ I fed the Guru's saṅgat. (31)
 ਤਊ ਪਚਾਵਾ ਕਾਚਾ ਰਹਯੋ। ਮੂਲ ਨਫਾ ਕੁਛ ਹਾਥ ਨ ਲਹਯੋ।\
 ਨਹਿਂ ਅਲੰਬ ਤੁਮਰੇ ਬਿਨ ਮੇਰਾ। ਮਰੌਂ ਦੇਤਿ ਮੈਂ ਕਰਜ ਘਨੇਰਾ' ॥੩੨॥
 
-"Even so the kiln stayed raw;\
+"Even so the aava stayed raw;\
 neither capital nor profit came into my hands.\
 I have no support but you;\
 I shall die paying off this huge debt." (32)
@@ -361,7 +361,7 @@ your work shall be set right. (43)
 
 "Never do such a thing again;\
 disrespect to a Sikh brings sorrow.\
-The raw bricks in the kiln\
+The raw bricks in the aava\
 shall sell at the price of fired ones. (44)
 
 ਰਿਣ ਉਤਰਹਿ ਅਰ ਨਫਾ ਸੁ ਪਾਵੈਂ। ਸਿੱਖਨ ਸੇਵਹੁ ਸੁਖੀ ਰਹਾਵੈਂ।'\
@@ -378,7 +378,7 @@ and set about taking the bricks out. (45)
 Seeing them all yellow, he was full of regret,\
 but remembering the Guru's word he took heart.\
 Then the rains set in and it rained heavily,\
-and no other kiln could be fired. (46)
+and no other aava could be fired. (46)
 
 ਨੀਵ ਦੁਰਗ ਕੀ ਭਰਨੀ ਤਬੈ। ਨਰ ਪਤਿਸ਼ਾਹੀ ਖੋਜਤਿ ਸਬੈ।\
 ਨਹੀਂ ਈਟਕਾ ਪ੍ਰਾਪਤਿ ਤਿਨ ਕੋ। ਕਾਰਜ ਬਨਯੋ ਜ਼ਰੂਰੀ ਜਿਨ ਕੋ ॥੪੭॥
