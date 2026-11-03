@@ -104,7 +104,7 @@ as a bania who craves the taste of meat curry makes it of stones and eats that.[
 
 *Here ends the tenth chapter of the holy book Bachittar Natak, called the Account of the Coming of the Khanzada and His Flight in Terror. All is true, all is blessed. Chapter 10; verses so far, 354.*
 
-*Sri Dasam Granth, Bachittar Natak, Sri Guru Gobind Singh Ji. Gurmukhi text of record from the Shabad OS database, Sri Dasam Granth, section 54. Punjabi commentary and notes from the Shiromani Steek of the Dasam Sri Guru Granth Sahib Ji, part 1, published by Baba Teja Singh Ji Nihang Singh of Mehron, 1999, written Steek in the notes; the steek of Narain Singh consulted for meaning. Cite as Bachittar Natak 10.6.*
+*Sri Dasam Granth, Bachittar Natak, Sri Guru Gobind Singh Ji. Sri Dasam Granth, section 54. Punjabi commentary and notes from the Shiromani Steek of the Dasam Sri Guru Granth Sahib Ji, part 1, published by Baba Teja Singh Ji Nihang Singh of Mehron, 1999, written Steek in the notes; the steek of Narain Singh consulted for meaning. Cite as Bachittar Natak 10.6.*
 ---
 ### Notes
 
