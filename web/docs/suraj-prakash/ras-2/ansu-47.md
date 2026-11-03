@@ -1,20 +1,20 @@
 # Ras 2, Ansu 47
 
-## Bhai Bahilo, Continued
+## Bhai Behlo, Continued
 
 >**Questions**
 >
->1. What Bahilo threw into the Satluj?
+>1. What Behlo threw into the Satluj?
 >3. What made the bricks fire red?
->4. Bahilo's offering, and the Guru's reply?
->5. Where Bahilo's eyes stayed while carrying?
+>4. Behlo's offering, and the Guru's reply?
+>5. Where Behlo's eyes stayed while carrying?
 
 ਦੋਹਰਾ *Dohra*
 
 ਤਿਸ ਕੇ ਪੂਰਬ ਜਨਮ ਕੋ, ਪਤਾ ਲਿਖਯੋ ਗੁਰ ਰਾਇ।\
 ਕਾਗਦ ਕਰਿ ਕੈ ਖਾਮ ਕੋ, ਦੀਨਹੁ ਸਿੱਖਯ ਪਠਾਇ ॥੧॥
 
-The Guru wrote out a sign of Bahilo's former birth;\
+The Guru wrote out a sign of Behlo's former birth;\
 he sealed the paper and sent it off with a Sikh. (1)
 
 ਚੌਪਈ *Chaupai*
@@ -22,9 +22,9 @@ he sealed the paper and sent it off with a Sikh. (1)
 ਬਹਿਲੋ ਨਿਕਟਿ ਸਿੱਖਯ ਪੁਨ ਆਯੋ। ਗੁਰੂ ਹੁਕਮਨਾਮੋ ਦਿਖਰਾਯੋ।\
 ਲੇ ਕਰਿ ਸਿਖ ਤੇ ਸਿਰ ਪਰ ਰਖਯੋ। ਖੋਲਯੋ ਕਾਗਦ ਪਠਿ ਸਭਿ ਲਖਯੋ ॥੨॥
 
-Then the Sikh came to Bahilo\
+Then the Sikh came to Behlo\
 and showed him the Guru's hukamnama.\
-Bahilo took it from the Sikh and set it on his head;\
+Behlo took it from the Sikh and set it on his head;\
 he opened the paper, read it, and understood it all. (2)
 
 ਪ੍ਰਥਮ ਜਨਮ ਕੇ ਇਕ ਦੁਇ ਪਤੇ। ਪਠਿ ਕਰਿ ਅਚਰਜ ਚਿਤ ਮਹਿਂ ਅਤੇ।\
@@ -230,7 +230,7 @@ Stay there, and tell everyone,\
 ਇਮ ਸੁਨਿ ਕੈ ਬਹਿਲੋ ਹਰਖਾਯੋ। ਕਰਿ ਬੰਦਨ ਸਿੱਖਨ ਮਹਿਂ ਆਯੋ।\
 ਕਰਿਬੇ ਲਗਯੋ ਟਹਿਲ ਤਿਨਿ ਸੰਗਿ। ਸਕਲ ਦਿਵਸ ਜੇਤੋ ਬਲ ਅੰਗ' ॥੨੮॥
 
-Hearing this, Bahilo rejoiced;\
+Hearing this, Behlo rejoiced;\
 he bowed and came among the Sikhs.\
 He began to serve alongside them\
 all day long, with all the strength in his limbs. (28)
@@ -273,7 +273,7 @@ then they brought in more refuse besides. (32)
 With skill and with love welling up in him,\
 he set up kiln after kiln of bricks.\
 They fired beautifully and came out red,\
-and Bahilo's heart swelled with joy. (33)
+and Behlo's heart swelled with joy. (33)
 
 ਸ਼੍ਰੀ ਅਰਜਨ ਲਖਿ ਅੰਤਰਜਾਮੀ। ਸੇਵਾ ਸਿੱਖਯਨ ਕੀ ਪਿਖਿ ਸ੍ਵਾਮੀ।\
 ਕੁਛਕ ਈਂਟਕਾ ਨਿਕਟਿ ਮੰਗਾਈ। ਕੀਨ ਬਿਲੋਕਨ ਨੀਠ ਬਨਾਈ ॥੩੪॥
@@ -288,7 +288,7 @@ and looked them over; they were finely made. (34)
 
 Greatly pleased, he said,\
 "This kiln has now been fired well."\
-Seeing how great a seva Bahilo had done,\
+Seeing how great a seva Behlo had done,\
 the Guru turned on him a look of special grace. (35)
 
 ਅੰਤਹਕਰਣ ਭਯੋ ਨਿਰਮਲੀਆ। ਬਿਸ਼ੈ ਬਾਸ਼ਨਾਦਿਕ ਸਭਿ ਦਲੀਆ।\
@@ -312,7 +312,7 @@ The degh[^11] has stopped, and nothing can be done." (37)
 
 The Sri Guru said to the Sikhs,\
 "Let someone else keep the degh running today."\
-Hearing this, Bahilo stood up and said:\
+Hearing this, Behlo stood up and said:\
 "Revered one, you set me a daily wage. (38)
 
 ਸਰਬ ਇਕੱਤ੍ਰ ਅਹੈ ਸੋ ਧਰੀ। ਮੈਂ ਨਿਜ ਗੁਜਰ ਅਪਰ ਬਿਧਿ ਕਰੀ।\
@@ -358,7 +358,7 @@ and do the work on the place of pilgrimage with love." (43)
 ਸੁਨਿ ਬਹਿਲੋ ਮਾਨੀ ਗੁਰਬਾਨੀ। ਕਰਨ ਲਗਯੋ ਤਿਮ ਜਥਾ ਬਖਾਨੀ।\
 ਬਹੁ ਨਰ ਖਨਹਿਂ ਉਠਾਵਹਿਂ ਭਾਰ। ਕਰਹਿਂ ਬ੍ਰਿੰਦ ਮ੍ਰਿਤਕਾ ਕੀ ਕਾਰ ॥੪੪॥
 
-Hearing it, Bahilo obeyed the Guru's word\
+Hearing it, Behlo obeyed the Guru's word\
 and began to do just as he had been told.\
 Many men were digging and carrying loads;\
 throngs of them were at work on the earth. (44)
@@ -366,7 +366,7 @@ throngs of them were at work on the earth. (44)
 ਬਹਿਲੋ ਧਰਹਿ ਟੋਕਰਾ ਆਗੈ। ਖਨਹਿਂ ਸਿੱਖ ਇਕ ਭਰਿਬੇ ਲਾਗੈ।\
 ਬਹੁਤ ਮ੍ਰਿੱਤਕਾ ਪਾਵਹਿਂ ਤਾਂਹਿ। ਇਹੁ ਤਿਨ ਕੋ ਕਿਮ ਬਰਜਤਿ ਨਾਂਹਿ ॥੪੫॥
 
-Bahilo would set his basket down in front of them,\
+Behlo would set his basket down in front of them,\
 and one Sikh would dig and begin to fill it.\
 They heaped great loads of earth into it,\
 and he never once stopped them. (45)
@@ -415,7 +415,7 @@ so long he worked in that place. (50)
 ਸੁਪਤਹਿ ਅਲਪ ਜਾਮਨੀ ਜਾਨਿ। ਸੇਵਹਿ ਸਰਬ ਸਮੈਂ ਹਿਤ ਠਾਨਿ ॥੫੧॥
 
 When the Sri Guru went to sit elsewhere,\
-Bahilo worked at the kilns.\
+Behlo worked at the kilns.\
 He slept only a little of the night,\
 and served at every hour with love. (51)
 
@@ -446,7 +446,7 @@ sometimes he dug, sometimes he lifted loads on his head. (54)
 ---
 ਇਤਿ ਸ਼੍ਰੀ ਗੁਰ ਪ੍ਰਤਾਪ ਸੂਰਜ ਗ੍ਰਿੰਥੇ ਦੁਤਿਯ ਰਾਸੇ 'ਭਾਈ ਬਹਿਲੋ' ਪ੍ਰਸੰਗ ਬਰਨਨੰ ਨਾਮ ਸਪਤ ਚੱਤ੍ਵਾਰਿੰਸਤੀ ਅੰਸੂ ॥੪੭॥
 
-*Thus ends the forty-seventh ansu of the second Ras of Sri Gur Pratap Suraj Granth, telling the episode of Bhai Bahilo.*
+*Thus ends the forty-seventh ansu of the second Ras of Sri Gur Pratap Suraj Granth, telling the episode of Bhai Behlo.*
 
 *Sri Gur Pratap Suraj Granth, Bhai Santokh Singh, 1843. Gurmukhi text of record from the Sankhep
 Teeka edition with the annotation of Bhai Vir Singh, 1927 to 1935; the project docs abbreviate him
@@ -454,7 +454,7 @@ BVS. Cite as Ras 2.47.54.*
 
 ---
 ### Notes
-[^1]: Sarvar: Sakhi Sarvar, the pir whom Bahilo had served before he came to the Guru.
+[^1]: Sarvar: Sakhi Sarvar, the pir whom Behlo had served before he came to the Guru.
 [^2]: Ardās: the Sikh's prayer and petition, made standing.
 [^3]: Turk: the poet's word for Muslims; here Sakhi Sarvar.
 [^4]: Bharai: the drummers who serve Sakhi Sarvar's shrine and lead his pilgrims.
@@ -466,7 +466,7 @@ BVS. Cite as Ras 2.47.54.*
 [^10]: Laṅgar: the Guru's free kitchen.
 [^11]: Degh: the cauldron of the Guru's kitchen, and the food cooked in it.
 [^12]: Vahiguru: the Sikh name of the Lord.
-[^13]: Bhai Vir Singh: one absorbed in meditation on the one he worships reaches him through that love, so the Guru felt the begged scraps Bahilo ate; so too the thorns in the feet of a shepherd reciting Kirtan Sohila scratched Guru Nanak's feet, to the wonder of Bhai Lehna (Gur Nanak Prakash, second half, chapter 48, from verse 33).
+[^13]: Bhai Vir Singh: one absorbed in meditation on the one he worships reaches him through that love, so the Guru felt the begged scraps Behlo ate; so too the thorns in the feet of a shepherd reciting Kirtan Sohila scratched Guru Nanak's feet, to the wonder of Bhai Lehna (Gur Nanak Prakash, second half, chapter 48, from verse 33).
 [^14]: Man: a weight of about 37 kg.
 [^15]: Chakor: the partridge of Indian poetry, said to gaze at the moon and live on its light.
 [^16]: Bhai Bhagtu, born through the word of Guru Ram Das (Ras 2.41).
