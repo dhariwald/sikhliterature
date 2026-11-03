@@ -3,9 +3,7 @@
 ## The Battle with Husaini
 
 >**Questions**
->
->Whom did the Guru send to Gopal?
->Who struck Husaini with a javelin?
+
 
 #### ਹੁਸੈਨੀ ਜੁੱਧ ਕਥਨੰ ॥ *The account of the battle with Husaini*
 
