@@ -646,7 +646,7 @@ and made the cloud of iron rain somewhere else.[^43] (69)
 
 *Here ends the eleventh chapter of the holy book Bachittar Natak, called the Account of the Slaying of Husaini, and the Slaying of Kirpal, Himmat and Sangatia. All is true, all is blessed. Chapter 11; verses so far, 423.*
 
-*Sri Dasam Granth, Bachittar Natak, Sri Guru Gobind Singh Ji. Gurmukhi text of record from the Shabad OS database, Sri Dasam Granth, section 54. Punjabi commentary and notes from the Shiromani Steek of the Dasam Sri Guru Granth Sahib Ji, part 1, published by Baba Teja Singh Ji Nihang Singh of Mehron, 1999, written Steek in the notes; the steek of Narain Singh consulted for meaning. Cite as Bachittar Natak 11.33.*
+*Sri Dasam Granth, Bachittar Natak, Sri Guru Gobind Singh Ji. Sri Dasam Granth, section 54. Punjabi commentary and notes from the Shiromani Steek of the Dasam Sri Guru Granth Sahib Ji, part 1, published by Baba Teja Singh Ji Nihang Singh of Mehron, 1999, written Steek in the notes; the steek of Narain Singh consulted for meaning. Cite as Bachittar Natak 11.33.*
 ---
 ### Notes
 
