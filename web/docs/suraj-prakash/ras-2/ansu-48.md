@@ -1,6 +1,6 @@
 # Ras 2, Ansu 48
 
-## "Buddhu's aava Is Raw": Bhai Lakkhu
+## "Buddhu da aava kacha" (Buddhu's Aava is raw): Bhai Lakkhu
 
 >**Questions**
 >
