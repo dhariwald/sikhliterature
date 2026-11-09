@@ -6,7 +6,7 @@
 ### (daṅgioṅ ham kim ṭaraiṅ daṅgo hamrī jāt: How can we desist from fighting, as fighting is systemic in our Being)
 
 >**Questions**
->**Define:** Tara Singh of Van (ਤਾਰਾ ਸਿੰਘ ਵਾਂ), bunga (ਬੁੰਗਾ), Sahib Rai Chaudhary (ਸਾਹਿਬ ਰਾਇ ਚੌਧਰੀ), Baghel Singh (ਬਘੇਲ ਸਿੰਘ), 
+>**Define:** Tara Singh of Van (ਤਾਰਾ ਸਿੰਘ ਵਾਂ), bunga (ਬੁੰਗਾ), Baghel Singh (ਬਘੇਲ ਸਿੰਘ), 
 >
 >**Summarize (2–3 sentences each):**
 >
