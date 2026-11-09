@@ -7,7 +7,7 @@
 >**Summarize:**
 >1. Whom the Guru worships?
 >2. Why Akal Purakh called the Guru away from his tapasya.
->3. What the Guru says he is- god or servant?
+>3. What the Guru says he is, and is not?
 >4. What the Guru says about holy dress and empty dharam.
 
 ਚੌਪਈ ॥ *Chaupai*
