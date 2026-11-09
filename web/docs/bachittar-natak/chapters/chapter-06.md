@@ -3,12 +3,12 @@
 ## ਮਮ ਆਗਿਆ ਕਾਲ ਜਗ ਪ੍ਰਵੇਸ ਕਰਨ Kal's Command to Me to Enter the World
 
 >**Questions**
->**Define :** Hemkunt (ਹੇਮਕੁੰਟ), tapasya (ਤਪੱਸਿਆ), Akal Purakh (ਅਕਾਲ ਪੁਰਖ), Bach (ਬਾਚ),  smritis (ਸਿੰਮ੍ਰਿਤੀਆਂ), bhekh (ਭੇਖ), the 3 purposes of the Guru's birth 
+>**Define :** Hemkunt (ਹੇਮਕੁੰਟ), tapasya (ਤਪੱਸਿਆ), Akal Purakh (ਅਕਾਲ ਪੁਰਖ), Bach (ਬਾਚ),  smritis (ਸਿੰਮ੍ਰਿਤੀਆਂ), bhekh (ਭੇਖ), empty dharam (ਫੋਕਟ ਧਰਮ)
 >**Summarize:**
->1. Whom the Guru worships?
->2. Why Akal Purakh called the Guru away from his tapasya.
->3. What the Guru says he is, and is not?
->4. What the Guru says about holy dress and empty dharam.
+>1. Whom the Guru worships, and does not?
+>3. What Akal Purakh says about the previous religious paths?
+>4. The 3 purposes of the Guru's birth 
+>5. What the Guru says he is, and is not?
 
 ਚੌਪਈ ॥ *Chaupai*
 
