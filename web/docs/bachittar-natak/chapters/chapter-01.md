@@ -4,9 +4,9 @@
 
 >**Questions**
 >
->**Define (1 line each):** Kal (ਕਾਲ), Sri Kharagh (ਸ੍ਰੀ ਖੜਗ)
+>**Define:** Kal (ਕਾਲ), Sri Kharagh (ਸ੍ਰੀ ਖੜਗ)
 >
->**Summarize (2–3 sentences each):**
+>**Summarize**
 >
 >1. What Kal does to gods, avatars, prophets and kings.
 >2. What the Guru says is useless, and what alone saves.
