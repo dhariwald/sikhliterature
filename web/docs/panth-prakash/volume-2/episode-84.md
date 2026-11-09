@@ -6,7 +6,7 @@
 ### (daṅgioṅ ham kim ṭaraiṅ daṅgo hamrī jāt: How can we desist from fighting, as fighting is systemic in our Being)
 
 >**Questions**
->**Define:** Tara Singh of Van (ਤਾਰਾ ਸਿੰਘ ਵਾਂ), bunga (ਬੁੰਗਾ), Sahib Rai Chaudhary (ਸਾਹਿਬ ਰਾਇ ਚੌਧਰੀ), Baghel Singh (ਬਘੇਲ ਸਿੰਘ), the ruler of Patti (ਪੱਟੀ ਦਾ ਹਾਕਮ),
+>**Define:** Tara Singh of Van (ਤਾਰਾ ਸਿੰਘ ਵਾਂ), bunga (ਬੁੰਗਾ), Sahib Rai Chaudhary (ਸਾਹਿਬ ਰਾਇ ਚੌਧਰੀ), Baghel Singh (ਬਘੇਲ ਸਿੰਘ), 
 >
 >**Summarize (2–3 sentences each):**
 >
@@ -102,17 +102,17 @@ He refused to abide by the Mughal's sovereign writ. (9)
 ਕਹੈ ਦੰਗਿਓਂ ਹਮ ਕਿਮ ਟਰੈਂ ਦੰਗੋ ਹਮਰੀ ਜਾਤ ॥\
 ਦੰਗੇ ਖ਼ਾਤਰ ਹਮ ਕੀਏ ਸ੍ਰੀ ਸਤਿਗੁਰ ਜੀ ਆਪ ॥੧੦॥
 
-He boasted that he would never desist from fight,\
-Since fighting was systemically built in the Khalsa's body.\
+He boasted that he would never desist from violence,\
+Since violence was systemically built in the Khalsa's body.\
 They had been ordained to be violent (for a cause),\
-By the express Will of the great Guru (Guru Gogind Singh). (10)
+By the express Will of the great Guru (Guru Gobind Singh). (10)
 
 ਚੌਪਈ *Chaupai*
 
 ਦੰਗੈ ਹੀ ਤੇ ਪੈਯੁਗ ਪਤਿਸ਼ਾਹੀ ॥ ਦੰਗੈ ਹੀ ਤੇ ਹੋਗ ਸੀਸ ਲਾਈ ॥\
 ਬਿਨ ਦੰਗੈ ਕੋਊ ਪੁਛੈ ਨ ਬਾਤ ॥ ਹਮ ਦੰਗੋ ਮਚਾਵੈਂ ਯੌ ਲਖ ਘਾਤ ॥੧੧॥
 
-(The Khalsa) would attain sovereignty [Patshahi] through fighting,\
+(The Khalsa) would attain sovereignty [Patshahi] through violence,\
 And fight alone would prod them to make sacrifices.\
 Since nobody bothered about their cause without violence,\
 They would indulge in violence myriad times. (11)
@@ -400,7 +400,7 @@ As the great Guru had ordained (in the time of an ordeal). (43)
 ਸਿੰਘ ਸੋਊ ਜੁ ਕਰੈ ਨਿਤ ਜੰਗ ॥ ਸਿੰਘ ਸੋਊ ਕਰੈ ਮਰਨੋਂ ਨ ਸੰਗ ॥\
 ਅਸੀਂ ਲਰ ਮਰੈਂਗੇ ਬੁੰਗੇ ਮਾਂਹਿ ॥ ਨਹਿਂ ਨਠਿ ਕੈ ਹਮ ਜਾਨ ਬਚਾਹਿਂ ॥੪੪॥
 
-He alone was the Singh who engaged himself in daily fight[^21],\
+He alone was the Singh who engaged himself in daily battle[^21],\
 He alone was the Singh who feared not to die (for a cause).\
 So he would fight to the finish at his own place [bunga],\
 Nor would he desert his place to save his life. (44)
