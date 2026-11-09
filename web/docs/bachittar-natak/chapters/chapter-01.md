@@ -1,6 +1,6 @@
 # Bachittar Natak, Chapter 1
 
-## The Praise of Sri Kal Ji
+## ਸ੍ਰੀ ਕਾਲ ਜੀ ਕੀ ਉਸਤਤਿ ॥ The Praise of Sri Kal Ji
 
 >**Questions**
 >
