@@ -3,12 +3,13 @@
 ## ਮਮ ਆਗਿਆ ਕਾਲ ਜਗ ਪ੍ਰਵੇਸ ਕਰਨ Kal's Command to Me to Enter the World
 
 >**Questions**
+>**Define (1 line each):** Hemkunt (ਹੇਮਕੁੰਟ), Sapt Sring (ਸਪਤ ਸ੍ਰਿੰਗ), tapasya (ਤਪੱਸਿਆ), Akal Purakh (ਅਕਾਲ ਪੁਰਖ), Bach (ਬਾਚ),  smritis (ਸਿੰਮ੍ਰਿਤੀਆਂ) bhekh (ਭੇਖ), the 3 purposes of the Guru's birth 
 >
->1. Location of Guru's tapasya
->2. What every earlier teacher set going?
->3. Akal Purakh made the Guru his what?
->4. Fate of those who call the Guru the Supreme Lord?
->5. Name the 3 purposes of his birth.
+>**Summarize (2–3 sentences each):**
+>
+>1. Why Akal Purakh called the Guru away from his tapasya.
+>2. What the Guru says he is, and what happens to those who call him the Supreme Lord.
+>3. What the Guru says about holy dress and empty dharam.
 
 ਚੌਪਈ ॥ *Chaupai*
 
