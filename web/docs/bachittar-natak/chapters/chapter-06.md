@@ -1,6 +1,6 @@
 # Bachittar Natak, Chapter 6
 
-## Apni Katha (My Story)
+## ਮਮ ਆਗਿਆ ਕਾਲ ਜਗ ਪ੍ਰਵੇਸ ਕਰਨ Kal's Command to Me to Enter the World
 
 >**Questions**
 >
