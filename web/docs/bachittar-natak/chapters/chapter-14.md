@@ -4,7 +4,7 @@
 
 >**Questions**
 
->1. Who the Guru describes as his Father and Mother
+>**Define, and understand their relation to the Guru: Sarab Kal (ਸਰਬਕਾਲ), Kalika (ਕਾਲਿਕਾ),
 
 ਚੌਪਈ ॥ *Chaupai*
 
