@@ -1,6 +1,8 @@
 # Bachittar Natak, Chapter 5
 
-## The Account of the Patshahis
+## ਪਾਤਸ਼ਾਹੀ ਬਰਨਨੰ The Account of the Patshahi
+
+>What reason is given for the sacrifice of Guru Tegh Bahadur?
 
 ਨਰਾਜ ਛੰਦ ॥ *Naraj Chhand*
 
