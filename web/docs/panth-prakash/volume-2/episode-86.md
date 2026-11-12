@@ -4,7 +4,7 @@
 
 >**Questions**
 >
->**Define (1 line each):** Ghumanda (ਘਵੰਡੋ), Nihang (ਨਿਹੰਗ), sauṅchī (ਸੌਂਚੀ, a Punjabi game of strength), Taki (ਤਕੀ), Purbias (ਪੂਰਬੀਏ), "gave his head but not his resolve" (ਸੀਸ ਦਯੋ ਪਰ ਸਿਰਰ ਨ ਦੱਯਾ)
+>**Define (1 line each):**  Nihang (ਨਿਹੰਗ), sauṅchī (ਸੌਂਚੀ, a Punjabi game of strength), Purbias (ਪੂਰਬੀਏ), 
 >
 >**Summarize (2–3 sentences each):**
 >
