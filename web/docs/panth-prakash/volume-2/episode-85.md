@@ -6,7 +6,7 @@
 
 >**Questions**
 >
->**Define (1 line each):** Moman Khan (ਮੋਮਨ ਖਾਂ), qazi (ਕਾਜੀ), the Qazi's saying about the Singhs' blood (ਜਿਤਨਕ ਬੂੰਦ ਸਿੰਘਨ ਕੀ ਪਰੈ, ਤਿਤਨਕ ਸਿੰਘ ਫਿਰ ਹੋਤ ਹੈਂ ਖਰੈ), the Singhs of Lahore (ਸਿੰਘਨ ਲਹੌਰੀਅਨ), Kal (ਕਾਲ, Time and Death)
+>**Define (1 line each):** Moman Khan (ਮੋਮਨ ਖਾਂ), qazi (ਕਾਜੀ), Kal (ਕਾਲ, Time and Death)
 >
 >**Summarize (2–3 sentences each):**
 >
