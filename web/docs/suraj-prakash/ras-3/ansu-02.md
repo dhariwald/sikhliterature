@@ -4,7 +4,7 @@
 
 >**Questions**
 >
->**Define:** Prithia's curse (ਸ੍ਰਾਪ), bīṛh (ਬੀੜ), guru kian nu bhajar (ਗੁਰੂ ਕਿਆਂ ਨੂੰ ਭਾਜੜਾਂ), 
+>**Key terms:**  bīṛh (ਬੀੜ), guru kian nu bhajar (ਗੁਰੂ ਕਿਆਂ ਨੂੰ ਭਾਜੜਾਂ), 
 >**Summarize:**
 >
 >1. What Mata Ganga Ji asked for
