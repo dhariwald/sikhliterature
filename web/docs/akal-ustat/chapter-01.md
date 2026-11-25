@@ -11,7 +11,7 @@
 >
 >1. Significance of Sravag Sudh Savaiye 
 
-ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਚਉਪਈ ॥ *Tva Prasadi Chaupai*
+### ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਚਉਪਈ ॥ *Tva Prasadi Chaupai*
 
 ਪ੍ਰਣਵੋ ਆਦਿ ਏਕੰਕਾਰਾ ॥ ਜਲ ਥਲ ਮਹੀਅਲ ਕੀਓ ਪਸਾਰਾ ॥\
 ਆਦਿ ਪੁਰਖ ਅਬਿਗਤ ਅਬਿਨਾਸੀ ॥ ਲੋਕ ਚੱਤ੍ਰੁ ਦਸ ਜੋਤਿ ਪ੍ਰਕਾਸੀ ॥੧॥
@@ -28,6 +28,8 @@ He dwells in the elephant and the worm alike;\
 he holds king and beggar as one and the same.\
 He is the Being without a second, beyond knowing, never apart from any creature,[^3]\
 the knower within each and every heart. (2)
+
+======
 
 ਕਹੂੰ ਦੇਵਤਾਨ ਕੇ ਦਿਵਾਨ ਮੈ ਬਿਰਾਜਮਾਨ ਕਹੂੰ ਦਾਨਵਾਨ ਕੋ ਗੁਮਾਨ ਮਤ ਦੇਤ ਹੋ ॥\
 ਕਹੂੰ ਇੰਦ੍ਰ ਰਾਜਾ ਕੋ ਮਿਲਤ ਇੰਦ੍ਰ ਪਦਵੀ ਸੀ ਕਹੂੰ ਇੰਦ੍ਰ ਪਦਵੀ ਛਿਪਾਇ ਛੀਨ ਲੇਤ ਹੋ ॥\
@@ -49,7 +51,9 @@ Somewhere you become nectar,[^6] drinking it and giving it to drink; somewhere y
 Somewhere you become a great warrior and slay the rebels, somewhere you are like Mahadev[^7] among the gods.\
 Somewhere you are utterly poor, somewhere in the grip of wealth, somewhere skilled in learning; somewhere you are the earth, somewhere the sun. (16)
 
-ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਸਵੱਯੇ ॥ *Tva Prasadi Savaiye*
+======
+
+### ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਸਵੱਯੇ ॥ *Tva Prasadi Savaiye*
 
 ਸ੍ਰਾਵਗ ਸੁੱਧ ਸਮੂਹ ਸਿਧਾਨ ਕੇ ਦੇਖਿ ਫਿਰਿਓ ਘਰ ਜੋਗ ਜਤੀ ਕੇ ॥\
 ਸੂਰ ਸੁਰਾਰਦਨ ਸੁੱਧ ਸੁਧਾਦਿਕ ਸੰਤ ਸਮੂਹ ਅਨੇਕ ਮਤੀ ਕੇ ॥\
@@ -151,6 +155,9 @@ one saw Hari in the south, one bowed his head to the west;[^16]\
 one, like a beast, worshipped idols, another ran to worship the dead:\
 the whole world is tangled in false rites, and has not found the secret of Sri Bhagwan. (30)
 
+======
+### [On religious rites]
+
 ਸਭ ਕਰਮ ਫੋਕਟ ਜਾਨ ॥ ਸਭ ਧਰਮ ਨਿਹਫਲ ਮਾਨ ॥\
 ਬਿਨ ਏਕ ਨਾਮ ਅਧਾਰ ॥ ਸਭ ਕਰਮ ਭਰਮ ਬਿਚਾਰ ॥੨੦॥੫੦॥
 
@@ -159,7 +166,9 @@ count every dharam as fruitless;[^17]\
 without the support of the one Name,\
 know every rite for a delusion. (50)
 
-ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਲਘੁ ਨਿਰਾਜ ਛੰਦ ॥ *Tva Prasadi Laghu Niraj Chhand*
+======
+
+### ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਲਘੁ ਨਿਰਾਜ ਛੰਦ ॥ *Tva Prasadi Laghu Niraj Chhand*
 
 ਜਲੇ ਹਰੀ ॥\
 ਥਲੇ ਹਰੀ ॥\
@@ -361,6 +370,10 @@ only you, only you,\
 only you, only you,\
 only you, only you.[^23] (70)
 
+======
+
+### [On Oneness]
+
 ਕੋਊ ਭਇਓ ਮੁੰਡੀਆ ਸੰਨਿਆਸੀ ਕੋਊ ਜੋਗੀ ਭਇਓ ਕੋਊ ਬ੍ਰਹਮਚਾਰੀ ਕੋਊ ਜਤੀ ਅਨੁਮਾਨਬੋ ॥\
 ਹਿੰਦੂ ਤੁਰਕ ਕੋਊ ਰਾਫਜੀ ਇਮਾਮ ਸਾਫੀ ਮਾਨਸ ਕੀ ਜਾਤਿ ਸਬੈ ਏਕੈ ਪਹਿਚਾਨਬੋ ॥\
 ਕਰਤਾ ਕਰੀਮ ਸੋਈ ਰਾਜਕ ਰਹੀਮ ਓਈ ਦੂਸਰੋ ਨ ਭੇਦ ਕੋਈ ਭੂਲ ਭ੍ਰਮ ਮਾਨਬੋ ॥\
@@ -391,6 +404,10 @@ as many specks of dust rise from one dust and fill the air, and the specks of du
 as millions of waves rise from one sea,[^28] and the waves of water are all still called water;\
 so from the form of the universe all things, lifeless and living,[^29] appear; all arise from him, and all shall merge back into him. (87)
 
+======
+
+### [On Bhagti]
+
 ਬਿਨ ਭਗਤਿ ਸਕਤਿ ਨਹੀ ਪਰਤ ਪਾਨ ॥ ਬਹੁ ਕਰਤ ਹੋਮ ਅਰੁ ਜੱਗ ਦਾਨ ॥\
 ਬਿਨੁ ਏਕ ਨਾਮੁ ਇਕ ਚਿੱਤ ਲੀਨ ॥ ਫੋਕਟੋ ਸਰਬ ਧਰਮਾ ਬਿਹੀਨ ॥੨੦॥੧੪੦॥
 
@@ -398,6 +415,10 @@ Without the strength of devotion, no one can lay hold of him,\
 though many make fire offerings, fire sacrifices and gifts;\
 without the one Name, and a mind absorbed in it alone,\
 every dharam is empty and void. (140)
+
+======
+
+### [One Light]
 
 ਜਿਮੀ ਜਮਾਨ ਕੇ ਬਿਖੈ ਸਮਸਤਿ ਏਕ ਜੋਤਿ ਹੈ ॥\
 ਨ ਘਾਟਿ ਹੈ ਨ ਬਾਢਿ ਹੈ ਨ ਘਾਟਿ ਬਾਢਿ ਹੋਤ ਹੈ ॥\
@@ -409,7 +430,7 @@ it does not lessen, it does not grow, it never lessens or grows;\
 it knows no loss and no lack; know it as one and the same in form;\
 in dweller and in dwelling, know its radiance to be beyond all measure. (166)
 
-ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਦੋਹਰਾ ॥ *Tva Prasadi Dohra*
+### ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਦੋਹਰਾ ॥ *Tva Prasadi Dohra*
 
 ਏਕ ਸਮੈ ਸ੍ਰੀ ਆਤਮਾ ਉਚਰਿਓ ਮਤਿ ਸਿਉ ਬੈਨ ॥\
 ਸਬ ਪ੍ਰਤਾਪ ਜਗਦੀਸ ਕੋ ਕਹੋ ਸਕਲ ਬਿਧਿ ਤੈਨ ॥੧॥੨੦੧॥
@@ -487,7 +508,7 @@ Who is sick, and who is grieving? Where does dharam decline? (209)
 "Who is a hero, and who is beautiful? What is the essence of yoga?\
 Who is a giver, and who is wise? Tell me what is right thought, and what is wrong."[^30] (210)
 
-ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਦੀਰਘ ਤ੍ਰਿਭੰਗੀ ਛੰਦ ॥ *Tva Prasadi. Diragh Tribhangi Chhand*
+### ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਦੀਰਘ ਤ੍ਰਿਭੰਗੀ ਛੰਦ ॥ *Tva Prasadi. Diragh Tribhangi Chhand*
 
 ਘੁੰਘਰੂ ਘਮੰਕਣਿ ਸਸਤ੍ਰ ਝਮੰਕਣਿ ਫਣੀਅਰ ਫੁੰਕਾਰਣਿ ਧਰਮ ਧੁਜੇ ॥\
 ਅਸ ਟਾਟ ਪ੍ਰਹਾਸਨ ਸ੍ਰਿਸਟਿ ਨਿਵਾਸਨ ਦੁਸਟ ਪ੍ਰਨਾਸਨ ਚੱਕ੍ਰ ਗਤੇ ॥\
@@ -499,7 +520,7 @@ You laugh a terrible, thundering laugh,[^32] you dwell in all creation, you whir
 You ride the lion, clad in pure armour, beyond reach, beyond depth, one in your nature.\
 Victory, victory be yours, slayer of Mahikhasur,[^33] primal maiden, unfathomable in your nature. (218)
 
-ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਸ੍ਵੱਯੇ ॥ *Tva Prasadi Savaiye*
+### ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਸ੍ਵੱਯੇ ॥ *Tva Prasadi Savaiye*
 
 ਦੀਨਨ ਕੀ ਪ੍ਰਤਿਪਾਲ ਕਰੈ ਨਿਤ ਸੰਤ ਉਬਾਰਿ ਗਨੀਮਨ ਗਾਰੈ ॥\
 ਪੱਛ ਪਸੂ ਨਗ ਨਾਗ ਨਰਾਧਪ ਸਰਬ ਸਮੈ ਸਭ ਕੋ ਪ੍ਰਤਿਪਾਰੈ ॥\
@@ -521,6 +542,8 @@ enemies strike blow after blow, yet he lets not one of them touch the body.\
 He guards with his own hand, and lets no host of sins come near;\
 why should I tell you of other things? He keeps safe even what lies within the folds of the womb. (248)
 
+### [Oneness of Humanity]
+
 ਪੂਰਬੀ ਨ ਪਾਰ ਪਾਵੈਂ ਹਿੰਗੁਲਾ ਹਿਮਾਲੈ ਧਿਆਵੈਂ ਗੋਰ ਗਰਦੇਜੀ ਗੁਨ ਗਾਵੈਂ ਤੇਰੇ ਨਾਮ ਹੈਂ ॥\
 ਜੋਗੀ ਜੋਗ ਸਾਧੈ ਪਉਨ ਸਾਧਨਾ ਕਿਤੇਕ ਬਾਧੈ ਆਰਬ ਕੇ ਆਰਬੀ ਅਰਾਧੈਂ ਤੇਰੇ ਨਾਮ ਹੈਂ ॥\
 ਫਰਾ ਕੇ ਫਿਰੰਗੀ ਮਾਨੈਂ ਕੰਧਾਰੀ ਕੁਰੇਸੀ ਜਾਨੈਂ ਪਛਮ ਕੇ ਪੱਛਮੀ ਪਛਾਨੈਂ ਨਿਜ ਕਾਮ ਹੈਂ ॥\
@@ -541,6 +564,8 @@ the Rohilas of Roh, the Maghelas of the Magh country, the brave Bangash and the 
 The Gorkhas sing your praises, the people of Chin and Machin bow their heads, and the Tibetans meditate on you and crush the ills of the body;[^40]\
 those who meditated on you won perfect glory, and they flourish with every wealth and home, with fruit and flower. (255)
 
+### [Final Lines]
+
 ਬਨ ਤਿਨ ਮਹੀਪ ਜਲ ਥਲ ਮਹਾਨ ॥ ਜਂਹ ਤਂਹ ਪ੍ਰਸੋਹ ਕਰੁਣਾ ਨਿਧਾਨ ॥\
 ਜਗਮਗਤ ਤੇਜ ਪੂਰਨ ਪ੍ਰਤਾਪ ॥ ਅੰਬਰ ਜਿਮੀਨ ਜਿਹ ਜਪਤ ਜਾਪ ॥੫॥੨੭੧॥
 
@@ -554,7 +579,6 @@ the sky and the earth chant his name. (271)
 Through all seven skies and all seven underworlds\
 his net of karma is spread, unseen.[^41]
 
----
 ਉਸਤਤ ਸੰਪੂਰਣੰ ॥
 
 *The Praise is complete.*
